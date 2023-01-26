@@ -1,0 +1,983 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- ask_residence:
+    triggers: action_your_residence
+- scholarship
+- summer_warning
+- admission_schedule
+- fee_structure
+- facilities-nust-hostels
+- how-pay-monthly-hostel
+- bot_challenge
+- out_of_scope
+- affirm
+- deny
+- goodbye
+- mood_great
+- mood_unhappy
+- hostel-meaning
+- what_hostel_owner
+- facilities-private-hostels
+- list-private-hostel-owners
+- specificities-real-estate-hostels
+- list-real-estate
+- what-hostel-types
+- more-info-NUST-shared-hostel
+- more-info-nust-bedsit
+- more-info-NUST-studios
+- more-info-NUST-family-hostel
+- more-info-adapted-hostels
+- where-hostels
+- are-there-hotels
+- are-there-youth-hostels
+- useful-info-hostels
+- info-support-hostel
+- what-housing-possibilities
+- get-nust-hostel
+- contact-NUST-housing-service
+- get-private-hostel
+- get-real-estate-hostel
+- get-hostel-keys
+- price-NUST-hostels
+- what-if-not-pay-hostel
+- get-hostel-request-proof
+- first-thing-to-do-hostel
+- to-do-before-leaving-hostel
+- no-exit-inventory
+- may-sublet
+- what-charges-for-hostel
+- Boys_Hostels
+- Girls_Hostels
+- summer_courses
+- nust
+- job_rate
+- past_papers
+- admission
+- admission2
+- NET
+- tests_conducted
+- apply
+- offered_programs
+- hostel
+- test_pattern
+- negative_marking
+- evening_classes
+- sports_seats
+- self_finance
+- domicile
+- aggregate
+- academic_period
+- Warning
+- Fyp_Registration
+- Transfer
+- GPA_F
+- GPA_I
+- GPA
+- credit_hour
+- classes
+- graduation
+- Admission_of_former
+- awaited_admission
+- semester_week
+- summer_campus
+- summer_withdraw
+- new_summer
+- improve_gpa
+- freezing_semester
+- Rechecking_paper
+- degree_duration
+- spring_admission
+- withdraw_course
+- medals
+- social_events
+- contacts
+- nust_isb_address
+- nust_blo_address
+- nust_khi_address
+- nust_rwp_address
+- library
+- cafeteria
+- mosque
+- auditorium
+- best_campus
+- academic_office
+- director_office
+- hod_office
+- students_affair
+- admin_office
+- career_office
+- dean
+- headquarter
+- SAT
+- information_extract
+slots:
+  Address:
+    type: text
+  CELL:
+    type: text
+  CITY:
+    type: text
+  COURSE:
+    type: text
+  DOB:
+    type: text
+  EMAIL:
+    type: text
+  GENDER:
+    type: text
+  NAME:
+    type: text
+  Nationality:
+    type: text
+  REGISTRATION:
+    type: text
+  SCHOOL:
+    type: text
+
+  requested_slot:
+    type: unfeaturized
+responses:
+  utter_ask_affirmation:
+  - buttons:
+    - payload: /hostel-meaning
+      title: Hostel means
+    - payload: /what_hostel_owner
+      title: Hostel Owners
+    - payload: /facilities-nust-hostels
+      title: NUST Hostel Facilities
+    - payload: /facilities-private-hostels
+      title: Private Hostel Facilities
+    - payload: /list-private-hostel-owners
+      title: Private Hostel Owners List
+    - payload: /specificities-real-estate-hostels
+      title: Real State Hostel Facilities
+    - payload: /list-real-estate
+      title: List of Real State Hostel
+    - payload: /what-hostel-types
+      title: Hostel Types
+    - payload: /more-info-NUST-shared-hostel
+      title: NUST Shared Rooms Information
+    - payload: /more-info-nust-bedsit
+      title: NUST Bedsit Information
+    - payload: /more-info-NUST-studios
+      title: 'NUST Studio Information'
+    - payload: /more-info-NUST-family-hostel
+      title: NUST Family Hostel Information
+    - payload: /more-info-adapted-hostels
+      title: Hostel for Disablers
+    - payload: /where-hostels
+      title: Hostels Information
+    - payload: /are-there-hotels
+      title: Hotels Information
+    - payload: /are-there-youth-hostels
+      title: Youth Hostel
+    - payload: /useful-info-hostels
+      title: Useful Information about Hostels
+    - payload: /info-support-hostel
+      title: Hostel Support
+    - payload: /what-housing-possibilities
+      title: Accommodation Possibilities
+    - payload: /get-nust-hostel
+      title: Registration of NUST Hostel
+    - payload: /contact-NUST-housing-service
+      title: NUST Hostel Contacts
+    - payload: /get-private-hostel
+      title: Registration for Private Hostel
+    - payload: /get-real-estate-hostel
+      title: Registration for Real State Hostel
+    - payload: /get-hostel-keys
+      title: Hostel Keys
+    - payload: /price-NUST-hostels
+      title: NUST Hostel Prices
+    - payload: /how-pay-monthly-hostel
+      title: Hostel Monthly Charges
+    - payload: /what-if-not-pay-hostel
+      title: Pending dues exclamation
+    - payload: /get-hostel-request-proof
+      title: Hostel Confirmation Proof
+    - payload: /first-thing-to-do-hostel
+      title: Necessary things for Hostel
+    - payload: /to-do-before-leaving-hostel
+      title: Leave Hostel
+    - payload: /no-exit-inventory
+      title: No Exit Inventory
+    - payload: /may-sublet
+      title: Sublet
+    - payload: /what-charges-for-hostel
+      title: Sublet
+    - payload: /Boys_Hostels
+      title: Boys Hostel
+    - payload: /Girls_Hostels
+      title: Girl Hostel
+    - payload: /summer_warning
+      title: Summer Warning
+    - payload: /summer_courses
+      title: Summer Courses
+    - payload: /nust
+      title: NUST
+    - payload: /job_rate
+      title: Job Rate
+    - payload: /admission_schedule
+      title: Admission Schedule
+    - payload: /past_papers
+      title: Past Papers
+    - payload: /admission
+      title: Admission
+    - payload: /NET
+      title: NET
+    - payload: /tests_conducted
+      title: Test Conducted
+    - payload: /apply
+      title: Apply
+    - payload: /fee_structure
+      title: Fee Structure
+    - payload: /offered_programs
+      title: Offered Programs
+    - payload: /hostel
+      title: Hostel
+    - payload: /test_pattern
+      title: Test Pattern
+    - payload: /negative_marking
+      title: Negative Marking
+    - payload: /evening_classes
+      title: Evening Classes
+    - payload: /sports_seats
+      title: Sports Seats
+    - payload: /self_finance
+      title: Self Finance
+    - payload: /hostel
+      title: Hostel
+    - payload: /domicile
+      title: Domicile
+    - payload: /aggregate
+      title: Aggregate
+    - payload: /academic_period
+      title: Academic Period
+    - payload: /Warning
+      title: Warning
+    - payload: /Fyp_Registration
+      title: Fyp Registration
+    - payload: /Transfer
+      title: Transfer
+    - payload: /GPA_F
+      title: GPA F
+    - payload: /GPA_I
+      title: GPA I
+    - payload: /GPA
+      title: GPA
+    - payload: /credit_hour
+      title: Credit Hour
+    - payload: /classes
+      title: Classes
+    - payload: /GPA_I
+      title: GPA I
+    - payload: /graduation
+      title: Graduation
+    - payload: /Admission_of_former
+      title: Admission of former
+    - payload: /awaited_admission
+      title: Awaited Admission
+    - payload: /semester_week
+      title: Semester Week
+    - payload: /summer_campus
+      title: Summer Campus
+    - payload: /summer_withdraw
+      title: Summer Withdraw
+    - payload: /new_summer
+      title: New Summer
+    - payload: /improve_gpa
+      title: Improve Gpa
+    - payload: /freezing_semester
+      title: Freezing Semester
+    - payload: /Rechecking_paper
+      title: Rechecking Paper
+    - payload: /degree_duration
+      title: Degree Duration
+    - payload: /spring_admission
+      title: Spring Admission
+    - payload: /withdraw_course
+      title: Withdraw Course
+    - payload: /medals
+      title: Medals
+    - payload: /social_events
+      title: Social Events
+    - payload: /contacts
+      title: Contacts
+    - payload: /nust_isb_address
+      title: Nust isb address
+    - payload: /nust_blo_address
+      title: Nust blo address
+    - payload: /nust_khi_address
+      title: Nust khi address
+    - payload: /nust_rwp_address
+      title: Nust rwp address
+    - payload: /library
+      title: Library
+    - payload: /cafeteria
+      title: Cafeteria
+    - payload: /mosque
+      title: Mosque
+    - payload: /auditorium
+      title: Auditorium
+    - payload: /best_campus
+      title: Best Campus
+    - payload: /academic_office
+      title: Academic Office
+    - payload: /director_office
+      title: Director Office
+    - payload: /hod_office
+      title: Hod Office
+    - payload: /students_affair
+      title: Students Affair
+    - payload: /admin_office
+      title: Admin Office
+    - payload: /career_office
+      title: Career Office
+    - payload: /dean
+      title: Dean
+    - payload: /headquarter
+      title: Headquarter
+    - payload: /SAT
+      title: SAT
+    - payload: /out_of_scope
+      title: Deny
+    text: Did you mean?
+  utter_ask_rephrase:
+  - text: Please rephrase again
+  utter_cheer_up:
+    - text: "Here is something to cheer you up:"
+      image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+  utter_default:
+  - text: "Sorry,I didn't Understand.Try Again.."
+  utter_custom:
+  - text: "Sorry,I didn't get that please try Again.."
+  utter_ask_NAME:
+  - text: Ok. Please provide your first name?
+  utter_ask_GENDER:
+  - text: What is your Gender?
+  utter_ask_SCHOOL:
+  - text: Please provide your school or college name,in which you currently enrolled?
+  utter_ask_COURSE:
+  - text: Please enter your course or engineering program in which you are currently
+          enrolled?
+  utter_ask_SEMESTER:
+  - text: Enter your semester number in which you are currently studying?
+  utter_ask_DOB:
+  - text: Please provide your Date of Birth(DOB)?
+  utter_ask_CELL:
+  - text: Enter your cell number?
+  utter_ask_CITY:
+  - text: Please provide your city name as per your domicile?
+  utter_ask_EMAIL:
+  - text: Enter your email address?
+  utter_ask_Address:
+  - text: Please provide your Permanent Address?
+  utter_ask_REGISTRATION:
+  - text: Please enter your Registration Number ?
+  utter_submit:
+  - text: "Here is your details:\n
+             - Registration : {REGISTRATION}\n
+             - Name: {NAME}\n
+             - Gender: {GENDER}\n
+             - Course: {COURSE}\n 
+             - DOB: {DOB}\n
+             - Cell: {CELL}\n 
+             - City: {CITY}\n
+             - Email Address: {EMAIL}\n
+             - Permanent Address: {Address}\n"
+  utter_response:
+    - text: "Here is your Data:\n
+               - Data : {myresult}\n
+               - Name: {NAME}\n
+               - Gender: {GENDER}\n
+               - School: {SCHOOL}\n
+               - Course: {COURSE}\n 
+               - DOB: {DOB}\n
+               - Cell: {CELL}\n 
+               - City: {CITY}\n
+               - Email Address: {EMAIL}\n
+               - Permanent Address: {Address}\n"
+  utter_how_can_I_help:
+  - text: Welcome. I'm AEdBOT. I can help you with finding
+          a Hostel or accommodation and providing latest
+          news for Admissions.
+  utter_goodbye:
+  - text: It was great talking to you! Goodbye!!
+
+  utter_hostel_meaning:
+  - text: The word "Hostel" originates from a English word which meant junk room.
+          It is used nowadays in all regions of Pakistan to call student accommodations,flats
+          where students have an individual room, but share the kitchen, living room and
+          bathroom with other students.In islamabad, most hostels belong to nust and are
+          quite inexpensive. Some private owners and real estate agencies also rent accommodations.
+          There are other possibilities of housing, such as hotels, youth hostels and
+          airbnbs.
+  utter_what_hostel_owner:
+  - text: 'There are several types of hostel owners in islamabad: - nust owns hostel
+        and rents them at very affordable prices - Private owners who rent flats in
+        buildings they own, and which are usually quite more expensive - Rent real estate
+        agencies'
+
+  utter_facilities_private_hostels:
+  - text: Privately owned hostels are flats within building that belong to private
+          landlords. Their renting price is usually higher than that of nust's hostels,
+          but the price heavily depends on the size and type of flat. Privately owned
+          hostels usually don't come equipped except for a shower or a bath and kitchen
+          appliances. facilities (such as cleaning services) will be described in the
+          housing contract.Most of those hostels, but not all, are on the university campus.
+          You'll need to contact the owner to rent a privately owned hostel.
+  utter_list_private_hostel_owners:
+  - text: You can find a list in PDF format of the private hostel landlords on the
+          <a href=https://nust.be/en/study/accomodation/autres-filieres-de-logements-0-1-2.html>website
+          of the nust Housing service</a>. You can also get listings at www.student.be
+          or www.hostels.be. You can also use the Findaroom application on Facebook, which
+          is updated daily.
+  utter_specificities_real_estate_hostels:
+  - text: Some hostels belong to real estate agencies. Their price, location and characteristic
+          can widely vary. They are however usually more expensive than nust hostels.
+  utter_list_real_estate:
+  - text: 'There are 5 major real estate agencies in islamabad: - <a href=http://www.aiglon.be/>Aiglon
+        agency - <a href=http://www.dynamic-immo.com/>Dynamic Immo - <a href=http://www.eckelmans.net/>Eckelmans
+        Immobilier - <a href=http://www.immo-genon.eu/>Immobilière Genon - <a href=http://immo-graas-brison.be/>Immo
+        Graas-Brison'
+  utter_what_hostel_types:
+  - text: 'There are different types of hostels available: - Shared flats, with individual
+        rooms and shared living room and commodities - Individual bedsit - 1 to 2 people
+        studio - Larger flats for students with their family - Adapted hostels for disabled
+        students - Cubicle/single bedroom with attached washroom for PG / PhD Students.
+        - Double Occupancy (in Boys Hostels) with attached washroom for PG Students.
+        - Double Occupancy with community washrooms for UG Students. - Triple Occupancy
+        with community washrooms for UG Students.'
+  utter_more_info_NUST_shared_hostel:
+  - text: A shared hostel owned by nust typically consists of 3 to 10 individual bedrooms,
+          a shared living room, kitchen and commodities. Some pieces of furniture such
+          as cupboards, tables, kitchen stoves and beddings, are usually already there.
+          Some shared hostels contain students with a shared project and cost about the
+          same price as normal hostels. You can get more information on <a href=https://nust.be/en/study/accomodation/chambre-en-appartement-communautaire.html>this
+          webpage</a>.
+  utter_more_info_nust_bedsit:
+  - text: Nust bedsits are individual flats.Only the toilets are shared with other
+          occupants of the building. They usually come equipped with a small kitchen and
+          a shower, and are reserved for graduate students (i.e. master students).You
+          can get more information on <a href=https://nust.be/en/study/accomodation/chambre-flat.html>this
+          webpage</a>.
+  utter_more_info_NUST_studios:
+  - text: " Nust studios are flats for a single person or a couple. They are usually
+          equipped with a small kitchen, a shower and commodities.They are reserved for
+          master and advanced master students. You can get more information on https://nust.be/en/study/accomodation/studio.html this
+          webpage."
+  utter_more_info_NUST_family_hostel:
+  - text: Nust family accommodation are family apartments primarily reserved to couples
+          and families, on of whose members is a graduate student. They come furnished
+          and with 1, 2 or 3 bedrooms.You can get more information on <a href=https://nust.be/en/study/accomodation/logement-pour-famille.html>this
+          webpage</a>.
+  utter_more_info_adapted_hostels:
+  - text: 'If you have a specific profile, nust can provide you with an adapted accommodation.
+        Specific profiles include: - people with reduced mobility (PRM) - people with
+        sensory disabilities - people with disabling diseases - top athletes - You will
+        need to contact the Housing Service to get such a hostel.'
+  utter_where_hostels:
+  - text: hostels can be located anywhere in islamabad (and sometimes in the nearby
+          countryside). - nust hostels are only located inside the campus.
+  utter_are_there_hotels:
+  - text: There are several hotels in islamabad, notably Martin's and IBIS.
+  utter_are_there_youth_hostels:
+  - text: ' There are youth hostels in islamabad and nearby. You can get more information
+        on www.lesaubergesdejeunesse.be.'
+  utter_useful_info_hostels:
+  - text: You can get practical information about accommodations on <a href=https://nust.be/en/study/accomodation/informations-pratiques-0.html>this
+          webpage</a>.
+  utter_info_support_hostel:
+  - text: 'To get support and information about housing.Here are the details: Deputy
+        Director Hostels:  +92-51-9085-1508 Assistant Director Hostels: +92-51-9085-1509
+        Assistant Director Hostels Female: +92-51-9085-1527 Assistant Director Messing
+        Hostels: +92-51-9085-1518 Staff Hostels: 051-+92-51-9085-1528 Staff Hostels
+        Messing: +92-51-9085-1529 Email ID: ddhostels@nust.edu.pk'
+  utter_what_housing_possibilities:
+  - text: You have several housing possibilities.You can get a very affordable nust
+          hostel, studio, or family accommodation, or you can get in touch with private
+          landlords or local real estates.When you get a hostel, you will have to sign
+          a contract with the owner, usually give them a certain amount of money as a
+          security charges (which you'll get back at the end of your contract) and you
+          will get the keys of the accommodation. For more short term solutions, you can
+          check out hotels, youth hostels, guest rooms and airbnbs. You can ask me for more information about the different types of hostel
+          owners and how to reach them, the different types of hostels or the things you
+          will have to do when you arrive and leave your hostel.
+  utter_get_nust_hostel:
+  - text: To get a nust hostel, the easiest solution is to fill in the online accommodation
+          form on <a href=https://nust.be/en/study/accomodation/about.html>the Housing
+          Service website</a>. You can also directly get in touch with the Housing Service.
+          Once your request is accepted, you will receive a letter saying a room is reserved
+          for you. You will then need to go to the Housing Service to sign your contract
+          and acquire your keys. You should have your authorization of enrolment ready
+          before doing that.The deadline for the request is usually July 31 for the first
+          quadrimester and November 30 for the second quadrimester. Note that those accommodation
+          are very demanded, you should reserve them as far in advance as possible. The
+          reservation are made following the first-come first-served principle.
+  utter_contact_NUST_housing_service:
+  - text: 'You can contact the nust Housing Service by email at inforlogementISB@nust.be.
+        You can also directly go to their office at Rue de la Gare, 6 in islamabad.
+        You can find out their opening hours on <a href=https://nust.be/en/study/accomodation/contact.html>this
+        webpage</a>. - Here are the details: Deputy Director Hostels:  +92-51-9085-1508
+        Assistant Director Hostels: +92-51-9085-1509 Assistant Director Hostels Female:
+        +92-51-9085-1527 Assistant Director Messing Hostels: +92-51-9085-1518 Staff
+        Hostels: 051-+92-51-9085-1528 Staff Hostels Messing: +92-51-9085-1529 Email
+        ID: ddhostels@nust.edu.pk'
+  utter_get_private_hostel:
+  - text: To get a privately owned hostel, you will have to get in touch with a private
+          landlord (you can ask me for a list of them if needed).Once you reached them,
+          they will offer you to sign the accommodation contract, pay the safety deposit
+          and give you the keys.The prices and exact process depends on the landlords
+          of course.Be careful that all landlords don't speak English very well.
+  utter_get-real_estate_hostel:
+  - text: To get a real estate hostel, you will need to get in touch with the real
+          estate agency of you choice (if you need a list of those agencies, just ask).<br>Once
+          you reached them, you should be proposed to sign the contract, pay the safety
+          deposit and get the keys.The exact prices and process depend on the real estate
+          agency.
+  utter_get_hostel_keys:
+  - text: '- If you made a request to the nust Housing Service and it is accepted,
+        you should receive a letter telling you a room is reserved for you. Hostel accommodation
+        will be allotted to outstation students as per NUST Hostels Allotment SOP. b.
+        Students are required to apply through their CMS Account for Hostel Accommodation
+        while New Comers may apply through pgadmission.nust.edu.pk (PG students) & ugadmissions.nust.edu.pk
+        (UG Students). Hostel accommodation will be allotted by Deputy Director Hostels
+        depending on availability. On filling of accommodation request, applicants will
+        be put on waiting list You will then need to go to the Housing Service to sign
+        your contract and recieve the keys.The best time to come get your keys is at
+        the beginning of the term (September 15 or February 1).If you made a request
+        to private landlords or a real estate agency, you will need to get in touch
+        with them to get the key.'
+  utter_price_NUST_hostels:
+  - text: ' a. Room Rent Charges (1) Hostel Security - Rs. 10,000/- (Refundable) (2)
+        Single Occupancy - Rs. 6,500/- PM (3) Double Occupancy (att wash) - Rs. 5,500/-
+        PM (4) Double Occupancy (community wash) - Rs. 4,500/- PM (5) Triple Occupancy
+        (community wash) - Rs. 4,000/-PM b. Messing / Food Charges (1) Mess Security
+        - Rs. 9,000/- (Refundable) (2) Monthly charges - Rs. 6,750/- (Rs. 225/- per
+        day) For international students,the price of nust hostels varies on what type
+        of hostel you get.A shared flat is usually between €295 and €355/month, with
+        a security deposit of €150.A furnished, individual bedsit is €320 to €400/month
+        with a deposit of €150. A studio (for 1 to 2 people) is €355 to €575/month with
+        a deposit of €320. Family housing prices depend on the number of bedrooms:for
+        1 bedroom: €510 to €680/month with a deposit of €400 for 2 bedrooms: €620 to
+        €890/month with a deposit of €500 for 3 bedrooms: €810 to €1050/month with a
+        deposit of €550 Those prices include the charges (except the Internet connection).'
+
+  utter_what_if_not_pay_hostel:
+  - text: If you don't pay your monthly rent on time, for nust hostels, you will receive
+          a formal notice and will be fined €15 of administrative fees. If you still don't
+          pay, nust can evict you.For private landlords and real estate agencies, the
+          amount to pay will grow because of interests. If you still don't pay, you will
+          get evicted by bailiffs. Due date of deposit would be mentioned on challan and
+          for late deposit of dues, students will pay fine as mentioned in the Hostel
+          rent challan / mess bill and other type of fine (like for late comers and disciplinary
+          cases) imposed by Hostel management.
+  utter_get_hostel_request_proof:
+  - text: ' To get a proof of your nust accommodation request, you can simply send
+        an email to inforlogementISB@nust.be.If you made your request to a private landlord
+        or a real estate agency, you should get in touch with them.'
+  utter_first_thing_to_do_hostel:
+  - text: When you first arrive into your hostel, you should check the entry inventory
+          which the Neighborhood Office should have provided with the keys. It states
+          every furniture that should be present in the accommodation when you arrive
+          and their condition. When you're leaving, the hostel should be in the same condition
+          as described on this inventory. You will have to sign a document acknowledging
+          the good reception of the keys and stating the hostel is as described in the
+          entry inventory.If you have any remarks (e.g. about the condition of the place),
+          you should fill in this document before 10 days elapsed.<You will finally have
+          to give the Neighborhood Office this document back.
+  utter_to_do_before_leaving_hostel:
+  - text: If you use a nust accommodation, there are several things you need to do.
+          At least 15 days before the end of your accommodation contract, you should go
+          to your Neighborhood Office to get an appointment for the exit inventory. 2
+          opening days before the end of the contract, you must have done the exit inventory,
+          given the keys back,left the accommodation,If you had a privately owned hostel
+          or a hostel belonging to a real estate agency, the process should be somewhat
+          similar and should have been explained to you when you signed the contract.
+  utter_no_exit_inventory:
+  - text: If you don't make an appointment for the exit inventory, an outside expert
+          will be in charge of the exit inventory, at your expense. This expense is a
+          fixed amount.
+  utter_may_sublet:
+  - text: For nust hostels, it is forbidden to sublet. The tenant must be the person
+          who signed the lease agreement.If another student wants to rent your hostel,
+          you have to end your contract and the other student has to sign a new one at
+          the Housing Service.
+  utter_what_charges_for_hostel:
+  - text: When you sign your lease agreement for your accommodation, you will be asked
+          to pay a security charges by bank transfer. This amount of money is a security
+          for landlords in the case a tenant damages provided furniture. If you don't
+          make problems (which is usually the case), this charges will be refunded at
+          the latest by December 31 after the end of your last contract.For privately
+          owned and real estate accommodation, this should be written in your contract
+          but is usually not permitted.
+  utter_Boys_Hostels:
+  - text: Rumi Hostels Block-I, II & III – PG Students (Some Senior UG Students may
+          be entertained in Rumi-III Hostel on availability of accommodation) Ghazali
+          Hostels Block-I & II – UG Students Razi Hostels Block-I & II – UG Students Attar
+          Hostels Block-I & II – UG Students
+  utter_Girls_Hostels:
+  - text: Fatima Hostels Block-I & II – PG Students Zainab Hostel – UG Students Ayesha
+          Hostel – UG Students Khadija Hostel – UG Students
+  utter_residence:
+  - text: I live in this app all day long.
+  - text: The virtual world is my playground. I'm always here.
+  - text: Right here in this app. Whenever you need me.
+  utter_thanks:
+  - text: Thanks for your valuable time.
+  utter_submit_data:
+  - text: Would you like to submit the details?
+
+  utter_scholar:
+  - text: "yes scholarship/Financial Aid/Study loan are available at NUST. Visit to learn about them at: https://nust.edu.pk/admissions/scholarships/"
+  utter_summer:
+  - text: "YES, warning does increment and decrement in summer semester."
+  utter_schedule:
+  - text: "Admission are opened once in a year in May/June/July/August. To see the admission schedule and test dates please visit this link  https://ugadmissions.nust.edu.pk/Default.aspx"
+  utter_fee:
+  - text: "Fee structure can be viewed at https://nust.edu.pk/admissions/fee-structure/"
+  utter_facilities_nust_hostels:
+    - text: Hostels owned by nust usually come equipped with wash-basins, beds, mattresses,
+        chairs, tables, cupboards and shelf space. A cleaning service comes once a week
+        and cleans all the surfaces of common rooms. Those hostels usually cost about
+        €50 to €100/month.Sixteen hostels have been built in the main campus of NUST
+        (11 for male and 6 for female) which have capacity to accommodate 4719 students.
+        You will need to get in touch with Nust Housing Services to rent such a hostel.
+        These hostels provide:- a. Peaceful academic environment. b. Good meals, prepared
+        under hygienic conditions. c. Limited indoor recreational facilities i.e.:-
+        (1) TV Room (2) Indoor games (3) Gymnasium
+  utter_how_pay_monthly_hostel:
+    - text: To pay your monthly rent and your charges, you can either make a bank transfer
+            at the beginning of the month, or using a standing order which will withdraw
+            the amount of money in the first few days of the month.Hostel dues are required
+            to be paid on semester basis.Hostel rent challan will be issued through Finance
+            Directorate (Fee Section).Mess charges will be paid on monthly basis in advance.The
+            challan will be issued by the Hostel’s Branch
+  utter_sample:
+  - text: "You can get an idea from the past papers.for past papers visit this link https://ugadmissions.nust.edu.pk/demo/index.html"
+  utter_recruit:
+  - text: "Minimum criteria to apply is 60%. Furthur eligibility criteria could be reffered at https://nust.edu.pk/admissions/undergraduates/eligibility-criteria-for-ug-programmes/"
+
+  utter_admins:
+  - text: "Minimum criteria for A-levels students to apply is 60%(Equivalance). Furthur eligibility criteria could be reffered at https://nust.edu.pk/admissions/undergraduates/eligibility-criteria-for-ug-programmes/"
+
+
+  utter_net:
+  - text: "NET tests are accepted. See test months for NET at https://nust.edu.pk/admissions/undergraduates/eligibility-criteria-for-ug-programmes/"
+  utter_SAT:
+  - text: "SAT test is not conducted by NUST at NUST. To get information about SAT visit https://nust.edu.pk/admissions/undergraduates/eligibility-criteria-for-ug-programmes/"
+  utter_tests:
+  - text: "NUST accepts NET/SAT."
+
+  utter_apply:
+  - text: "To apply at NUST follow link https://ugadmissions.nust.edu.pk/"
+
+
+
+  utter_programs:
+  - text: "BS,MS,PHD Degrres are offered at NUST. Detailed programs can be viewed at https://nust.edu.pk/admissions/undergraduates/list-of-ug-programmes-and-institutions/"
+
+  utter_hostel:
+  - text: "On campus hostel is available at NUST. To apply at NUST hostel follow link https://campuslife.nust.edu.pk/facility-and-amenity/housing-and-dining/"
+
+  utter_pattern:
+  - text: "English,Maths,IQ,Chemistry and physics are included in NET test. For detailed weightage https://nust.edu.pk/admissions/undergraduates/subjects-included-in-net-with-weightings/"
+
+  utter_negative:
+  - text: "Yes, There will be no negative marking in NET."
+
+  utter_evening:
+  - text: "No evening classes are offered at NUST except Post graduate Program."
+
+  utter_sports:
+  - text: "No sports seats are available at NUST."
+
+  utter_self:
+  - text: "No self-finance seats are offered at NUST."
+
+  utter_domicile:
+  - text: "Domicile is not needed at the time of test."
+
+  utter_aggregate:
+  - text: "It depends on current year and campus aggregate. Some previous year aggregates of Islamabad campus are (2017-72.98),(2018-71.2),(2019-74.2)."
+
+  utter_period:
+  - text: "Academic period starts from September and Ends in June (Excluding Summer semester). Detailed schedule is available at: https://nust.edu.pk/downloads/academic-schedule/"
+
+  utter_Warning:
+  - text: " CGPA below 2 results in increment in warning counts. 3 consective warning counts will result in cancellation of admission."
+
+  utter_fyp:
+  - text: "Final Year Project (FYP) is offered in the second last regular semester. It spans over two semesters (FYP-I and FYP-II). A student must have passed all courses shown in the study plan of the degree program (up to the second last semester) and his warning count must be zero to register for FYP-I. Concession of 2 courses will be granted as per request. Minimum credit hours required are 92 for fyp registration."
+
+  utter_Transfer:
+  - text: "Any student with credits earned at other institution(s), under formally accredited programs, aspiring for admission into a degree program at NUST, has to qualify the merit so determined by the admission test for that year for the respective degree program."
+
+  utter_gpaw:
+  - text: "W means withdraw. courses which are withdrawn before final exams will be marked W in transcript and it doesn't affect gpa in any case."
+
+  utter_gpai:
+  - text: "I means awaiting grade. Grades that are not yet updated are marked I."
+
+  utter_gpa:
+  - text: "CGPA is calculated as the weighted average for all semesters cumulatively using grade points of all the courses taken by a student."
+
+  utter_credit:
+  - text: "One credit hour means teaching a theory course for one classroom-teaching hour each week throughout the semester."
+
+  utter_class:
+  - text: " Duration of classes is usually 1 hour (3 classes/week) for core courses and 1.5 hour (2 classes/week) for electives."
+
+  utter_former:
+  - text: "A former student of the university seeking readmission in an undergraduate program can do so by taking the relevant admission test. After qualifying for the admission on merit, the student is admitted as a NEW student."
+
+  utter_awaited:
+  - text: "A new admission is closed if an awaited result does not meet the eligibility criteria of a particular degree program."
+
+  utter_semester:
+  - text: "A semester comprises of 16 weeks including 2 sessionals and excluding final exams."
+
+  utter_campus:
+  - text: "Yes, Students are allowed to register course in any campus of NUST."
+
+  utter_sum:
+  - text: "A student can withdraw from a summer course on or before the last day of classes."
+
+  utter_summer_courses:
+  - text: "A student can register 2 old courses at max."
+
+  utter_new:
+  - text: "A student cannot register for a new course. Exception to this rule is granted when an elective course is being offered by a distinguished scholar or professional who is only available during summer."
+
+  utter_improve:
+  - text: "A student may repeat any course to improve CGPA."
+
+  utter_freezing:
+  - text: "A student may request freezing of his/her admission for up to 2 semesters along with prescribed Semester Freeze charges."
+
+  utter_Rechecking:
+  - text: "A student who has not viewed his final exam paper in the scheduled paper viewing session may also request rechecking of the final examination by paying the prescribed fee."
+
+  utter_degree:
+  - text: "A student's admission will be cancelled automatically after completion of maximum duration (7 years) allowed to earn a degree unless extension is approved by competent authority."
+
+  utter_spring:
+  - text: "No spring admissions at NUST."
+
+  utter_NUST:
+  - text: "NUST is the best university for Engineering and Technology in Pakistan.NUST was established in 1991 and MCS was selected as the 1st constituent college of NUST. Besides, it is premier institution of Pakistan Army in the fields of Communication, IT, Information Assurance, Cyber Security and Cryptology.NUST symbolises quality and excellence. Its spirited faculty, industrious students and excellent support infrastructure provide an academic environment, found only in the very best of the world universities. The university has five modern campuses at Karachi, Islamabad, 2 in Rawalpindi, and Quetta. These campuses deliver world-class educational environment and entertaining facilities to about 8,000 students, around one quarter are female."
+
+  utter_withdraw:
+  - text: "Application for withdrawal from a course must be countersigned by the parent or the guardian of the student. Request for withdrawal must be approved by the HoD."
+
+  utter_job:
+  - text: "Job rate of NUST is almost 100%"
+
+  utter_medal:
+  - text: "Eligibility for the medals and certificate is as follows:  a) Student must have passed the prescribed course load (for his/her batch) in that semester  b) Student must not have failed, repeated or withdrawn from a course in that semester c) Position is determined by the GPA earned in that semester. d) Student must have earned GPA of 3.00 or higher in that semester."
+
+  utter_events:
+  - text: "OLYMPIAD,Musical Gallas and other events are held annually in each campus."
+
+  utter_career:
+  - text: "Career service office is located at Ground floor Room# 04"
+
+  utter_dean:
+  - text: "Javed Mahmood Bukhari is the Rector of university"
+
+  utter_headquarter:
+  - text: "University headquarter is Scholars Ave, H-12, Islamabad, Islamabad Capital Territory"
+
+  utter_rwp:
+  - text: "Westridge 1, Rawalpindi, Punjab 46000"
+
+  utter_khi:
+  - text: "V3QQ+RP3, PNEC Road, PNS Jauhar Karsaz Faisal Cantonment, Karachi, Karachi City, Sindh"
+
+  utter_blo:
+  - text: "Kach Road, near Sheikh Mohammad Bin Zayed Al Nahyan Cardiac Centre, Quetta, Balochistan 87300."
+
+  utter_library:
+  - text: "Library facility is available in every campus"
+
+  utter_cafeteria:
+  - text: "Cafeteria facility is available in every campus"
+
+  utter_mosque:
+  - text: "Mosque facility is available in every campus"
+
+  utter_auditorium:
+  - text: "Every campus has its own Auditorium"
+
+  utter_bestcampus:
+  - text: "Every campus is good at its own. In terms of merit lahore has high merit."
+
+  utter_academic:
+  - text: "Academic office is situated at A-208"
+
+  utter_admin:
+  - text: "You can visit Admin office in C-201"
+
+  utter_students:
+  - text: "Student's affair department is located in Ground floor Room#01"
+
+  utter_hod:
+  - text: "Every Department has its respective HOD. You can meet them through open door policy in their office hours."
+
+  utter_director:
+  - text: "Director office is at ground floor Room#01"
+
+  utter_contacts:
+  - text: "You can contact NUST at +92-51-90853012"
+
+  utter_isb:
+  - text: "NUST islamabad is located at:  Scholars Ave, H-12, Islamabad, Islamabad Capital Territory"
+
+  utter_graduate:
+  - text: "Maximum period allowed for graduation is 7 years with 130 credit hours for bachelors degree"
+  utter_name:
+  - text: 'Please Enter your Registration Number'
+
+actions:
+- utter_goodbye
+- utter_how_can_I_help
+- utter_ask_NAME
+- utter_ask_GENDER
+- utter_ask_SCHOOL
+- utter_ask_COURSE
+- utter_ask_SEMESTER
+- utter_ask_DOB
+- utter_ask_CELL
+- utter_ask_CITY
+- utter_ask_EMAIL
+- utter_ask_Address
+- utter_ask_REGISTRATION
+- utter_submit
+- action_your_num
+- action_custom_fallback
+- utter_custom
+- custom_fallback_action
+- prev_action_default_ask_affirmation
+- utter_residence
+- action_your_residence
+- utter_thanks
+- utter_submit_data
+- action_submit_data
+- utter_hostel_meaning
+- utter_what_hostel_owner
+- utter_facilities_nust_hostels
+- utter_facilities_private_hostels
+- utter_list_private_hostel_owners
+- utter_specificities_real_estate_hostels
+- utter_list_real_estate
+- utter_what_hostel_types
+- utter_more_info_nust_bedsit
+- utter_more_info_NUST_shared_hostel
+- utter_more_info_NUST_studios
+- utter_more_info_NUST_family_hostel
+- utter_more_info_adapted_hostels
+- utter_where_hostels
+- utter_are_there_hotels
+- utter_are_there_youth_hostels
+- utter_useful_info_hostels
+- utter_info_support_hostel
+- utter_what_housing_possibilities
+- utter_get_nust_hostel
+- utter_contact_NUST_housing_service
+- utter_get_private_hostel
+- utter_get-real_estate_hostel
+- utter_get_hostel_keys
+- utter_price_NUST_hostels
+- utter_how_pay_monthly_hostel
+- utter_what_if_not_pay_hostel
+- utter_get_hostel_request_proof
+- utter_first_thing_to_do_hostel
+- utter_to_do_before_leaving_hostel
+- utter_no_exit_inventory
+- utter_may_sublet
+- utter_what_charges_for_hostel
+- utter_Boys_Hostels
+- utter_Girls_Hostels
+- utter_scholar
+- utter_summer
+- utter_schedule
+- utter_sample
+- utter_recruit
+- utter_admins
+- utter_net
+- utter_tests
+- utter_apply
+- utter_fee
+- utter_programs
+- utter_hostel
+- utter_pattern
+- utter_negative
+- utter_evening
+- utter_sports
+- utter_self
+- utter_domicile
+- utter_aggregate
+- utter_period
+- utter_Warning
+- utter_fyp
+- utter_Transfer
+- utter_gpaw
+- utter_gpai
+- utter_gpa
+- utter_credit
+- utter_class
+- utter_former
+- utter_awaited
+- utter_semester
+- utter_campus
+- utter_sum
+- utter_summer_courses
+- utter_new
+- utter_improve
+- utter_freezing
+- utter_Rechecking
+- utter_degree
+- utter_spring
+- utter_NUST
+- utter_withdraw
+- utter_job
+- utter_medal
+- utter_events
+- utter_career
+- utter_dean
+- utter_headquarter
+- utter_rwp
+- utter_khi
+- utter_blo
+- utter_library
+- utter_cafeteria
+- utter_mosque
+- utter_auditorium
+- utter_bestcampus
+- utter_academic
+- utter_admin
+- utter_students
+- utter_hod
+- utter_director
+- utter_contacts
+- utter_isb
+- utter_graduate
+- utter_SAT
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- action_data_extract
+- utter_response
+forms:
+- form_info
+- form_reg
+

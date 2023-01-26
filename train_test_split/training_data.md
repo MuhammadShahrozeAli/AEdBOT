@@ -1,0 +1,3616 @@
+## intent:hostel-meaning
+- explain hostel
+- what hostel in fact stands for
+- what hostel exactly means
+- what about what hostel is
+- explain what hostel means please
+- I would really like to be informed about what hostel stands for
+- what will be hostel actually
+- define hostel
+- what's hostel actually
+- what's hostel in fact
+- describe what hostel stands for please
+- what do you means by accommodation
+- describe what hostel means
+- would you be so kind and tell me about what hostel in fact is
+- what does hostel stand for
+- what about what hostel in fact stands for
+- what about what hostel actually means
+- describe what hostel is please
+- what about what hostel exactly stands for
+- what hostel is
+- what does hostel mean
+- describe hostel
+- what'd be hostel exactly
+- what does Hostel stand for
+- what'll be hostel in fact
+- what's accommodation
+- what is hostel actually
+- what about what hostel means
+- what is hostel
+- explain what hostel stands for please
+- I would really like to know about what hostel actually stands for
+- I would really like to know about what hostel exactly means
+- I'd like to learn about what hostel is
+- what'd be hostel in fact
+- define accommodation
+- describe what hostel means please
+- describe what hostel is
+- enlightenment on what hostel exactly means
+- what is hostel exactly
+- what does Hostel mean
+- what'd be hostel actually
+- what's hostel
+- would you be so kind and show me about what hostel exactly stands for
+- would you be so kind and show me about what hostel in fact means
+- I would like to learn about what hostel means
+
+## intent:what_hostel_owner
+- what sort of landowner would there be
+- which landowner are there in Pakistan
+- which landlord are there in pakistan
+- who can rent a hostel to me
+- who can sublet a room
+- which type of room proprietor would there be there
+- who can sublet a hostel
+- who can sublet a place
+- what owner are there at nust
+- which type of landlord would there be at NUST
+- what place proprietor would there be at NUST
+- who can sublet a accommodation
+- which kind of landowner would there be
+- what place proprietor are there
+- who can lease a hostel
+- what sort of owner would there be at university
+- what sort of room landowner would there be at university
+- who can lease a room
+- what landlord are there at nust
+- which landlord would there be
+- which landowner would there be
+- which landlord would there be at NUST
+- what housing proprietor would there be there
+- who can sublet a hostel to me
+- what sort of room proprietor would there be
+- what owner would there be at college
+- what kind of landlord are there there
+- what landlord would there be at nust
+- which landlord are there
+- which type of place holder are there in ISB
+- what room holder would there be
+- which hostel proprietor would there be
+- what sort of landlord would there be in pakistan
+- who can rent a housing to me
+- who can rent a accommodation to me
+- what hostelowner would there be
+- what type of landlord are there
+- which type of room holder would there be there
+- what housing proprietor would there be
+- which accommodation landowner would there be
+- what kind of roomowner would there be there
+- what housing holder would there be
+- who can lease a accommodation to me
+- what kind of accommodation proprietor are there
+- which sort of owner are there in nust
+- which landlord are there there
+- what landlord would there be there
+- what room holder are there
+- what kind of placeowner are there in national university of science and technology
+- what sort of housing landowner would there be
+- what type of hostel holder would there be
+- what sort of hostel proprietor would there be
+- which type of hostel landowner would there be
+- who can lease a accommodation
+- what type of accommodationowner are there at NUST
+- which type of landlord would there be
+- who can rent a accommodation
+- who can lease a room to me
+- who can lease a housing
+- which housing proprietor are there
+- what roomowner would there be in Pakistan
+- what place proprietor would there be
+- what sort of landowner would there be at NUST
+- what sort of place proprietor would there be in Islamabad
+- which kind of place proprietor are there in Pakistan
+- which landlord would there be there
+- who can sublet a housing
+- which sort of owner are there
+- what kind of landlord are there
+- who can sublet a place to me
+- what landlord are there there
+- what sort of accommodation proprietor would there be at islamabad
+- what sort of place proprietor are there
+- what place proprietor would there be at nust
+- what type of room landowner would there be in university
+- which sort of housing holder would there be
+- what sort of room proprietor are there
+- which kind of owner are there in pakistan
+- who can sublet a housing to me
+- what kind of landlord are there in ISLAMABAD
+- who can lease a housing to me
+- who can rent a room
+- what kind of room holder would there be
+- who can sublet a accommodation to me
+- who can rent a housing
+- which hostel proprietor would there be in Pakistan
+- what sort of landlord are there in Islamabad-Capital of Pakistan
+- what sort of hostel proprietor are there
+- which sort of place proprietor are there in Pakistan
+- who can rent a place
+- what landowner are there
+- who can rent a hostel
+- which type of landlord are there at nust
+- which place proprietor are there in pakistan
+- which type of landlord would there be there
+- which kind of hostel proprietor are there
+
+## intent:facilities-nust-hostels
+- what exactly are the facilities of accommodations owned by nust
+- what'd be a place owned by NUST
+- what exactly are the particularities of hostels owned by Nust
+- what in fact are the facilities of hostels owned by nust
+- what is a housing owned by NUsT
+- what actually are the facilities of hostels owned by the uni
+- what in fact are the facilities of accommodations that are owned by the uni
+- what exactly are the facilities of housings owned by NUST
+- what in fact are the facilities of accommodations owned by NUST
+- what is a housing that belong to university
+- what will be a Nust housing
+- what exactly are the facilities of nust rooms
+- what actually are the facilities of NUST places
+- what actually are the facilities of hostels that are owned by the university
+- what's a accommodation that belong to nust
+- what's a housing owned by university
+- what would be a accommodation that are owned by the university
+- what would be a uni room
+- what exactly are the particularities of nust places
+- what in fact are the particularities of places that belong to nust
+- what's a place owned by the uni
+- what in fact are the facilities of places owned by nust
+- what will be a accommodation that belong to NUST
+- what will be a hostel owned by uni
+- what would be a housing that belong to nust
+- what in fact are the particularities of nust accommodations
+- what is a NUST place
+- what exactly are the particularities of places that are owned by nust
+- what is a hostel that belong to nust
+- what actually are the facilities of the uni accommodations
+- what'd be a Nust accommodation
+- what is a nust housing
+- what exactly are the facilities of hostels owned by the college
+- what actually are the particularities of rooms owned by college
+- what in fact are the facilities of nust places
+- what would be a place owned by NUST
+- what'll be a room that are owned by nust
+- what will be a place owned by Nust
+- what exactly are the facilities of housings that are owned by nust
+- what exactly are the facilities of college hostels
+- what actually are the particularities of housings that are owned by NUST
+- what'll be a place owned by nust
+- what actually are the particularities of uni rooms
+- what's a hostel that are owned by the university
+- what in fact are the facilities of hostels that are owned by NUST
+- what actually are the facilities of housings that are owned by NUST
+- what exactly are the particularities of NUST hostels
+- what exactly are the particularities of hostels owned by the uni
+- what in fact are the particularities of places owned by nust
+- what in fact are the particularities of accommodations that belong to nust
+- what exactly are the particularities of accommodations owned by uni
+- what is a accommodation that belong to nust
+- what'd be a room that belong to the university
+- what actually are the facilities of hostels that belong to the uni
+- what is a housing owned by nust
+- what'd be a hostel owned by nust
+- what in fact are the facilities of NUST housings
+- what actually are the particularities of hostels owned by college
+- what'll be a room owned by the college
+- what actually are the facilities of rooms owned by nust
+- what in fact are the particularities of nust hostels
+- what in fact are the particularities of places that belong to college
+- what in fact are the particularities of accommodations owned by NUST
+- what exactly are the facilities of nust hostels
+- what actually are the particularities of hostels owned by the university
+- what in fact are the facilities of housings that are owned by NUST
+- what is a room that belong to nust
+- what exactly are the facilities of nust accommodations
+- what is a housing that belong to nust
+- what'll be a NUST housing
+- what would be a NUST room
+- what exactly are the facilities of hostels that are owned by the uni
+- what will be a housing owned by the university
+- what's a place owned by NUST
+- what actually are the particularities of rooms owned by nust
+- what'll be a place owned by NUST
+- what would be a room that are owned by NUST
+- what is a room owned by the college
+- what is a room owned by nust
+- what exactly are the particularities of housings owned by NUST
+- what's a room that belong to nust
+- what in fact are the facilities of the uni housings
+- what would be a nust accommodation
+- what is a accommodation owned by NUST
+- what'd be a the uni room
+- what would be a hostel owned by nust
+- what actually are the particularities of housings that are owned by the uni
+- what'd be a room owned by nust
+- what is a place that are owned by NUST
+- what exactly are the facilities of places that belong to nust
+- what in fact are the facilities of nust accommodations
+- what is a hostel that belong to the university
+- what actually are the particularities of hostels owned by nust
+
+## intent:facilities-private-hostels
+- what exactly are the facilities of places that belong to independent room proprietors
+- what exactly are the particularities of privately owned rooms
+- what exactly are the facilities of places that belong to separate accommodation proprietors
+- what in fact are the facilities of independently owned places
+- what exactly are the particularities of hostels being owned by separate landlords
+- what in fact are the facilities of hostels that belong to independent landlords
+- what actually are the particularities of independently owned housings
+- what'll be a independently owned hostel
+- what would be a independently owned place
+- what exactly are the facilities of housings that are owned by separate landlords
+- what exactly are the facilities of places that belong to private hostelowners
+- what would be a independently owned accommodation
+- what in fact are the particularities of independently owned hostels
+- what is a independently owned room
+- what actually are the facilities of independently owned hostels
+- what will be a privately owned room
+- what actually are the particularities of rooms that belong to separate place holders
+- what actually are the facilities of rooms that are owned by private landowners
+- what will be a privately owned place
+- what's a privately owned hostel
+- what'll be a privately owned hostel
+- what exactly are the particularities of accommodations being owned by independent place proprietors
+- what'd be a privately owned hostel
+- what would be a privately owned place
+- what actually are the particularities of privately owned hostels
+- what actually are the particularities of privately owned accommodations
+- what exactly are the particularities of privately owned hostels
+- what'll be a independently owned room
+- what will be a independently owned room
+- what actually are the facilities of independently owned places
+- what in fact are the particularities of independently owned housings
+- what in fact are the facilities of housings belonging to independent landlords
+- what will be a privately owned accommodation
+- what actually are the particularities of privately owned places
+- what'd be a privately owned place
+- what is a independently owned housing
+- what actually are the facilities of privately owned rooms
+- what in fact are the facilities of privately owned housings
+- what in fact are the particularities of rooms being owned by separate landlords
+- what in fact are the particularities of independently owned rooms
+- what actually are the facilities of places being owned by private place proprietors
+- what in fact are the facilities of accommodations that belong to separate landowners
+- what in fact are the facilities of accommodations that are owned by independent accommodation holders
+- what'd be a privately owned accommodation
+- what in fact are the particularities of housings belonging to independent housing holders
+- what exactly are the particularities of privately owned places
+- what actually are the facilities of privately owned places
+- what in fact are the particularities of privately owned housings
+- what in fact are the particularities of accommodations that are owned by private landlords
+- what exactly are the facilities of places that belong to private hostel proprietors
+- what actually are the facilities of accommodations that belong to independent landlords
+- what actually are the facilities of independently owned accommodations
+- what in fact are the particularities of housings that belong to independent room holders
+- what's a independently owned place
+- what'd be a independently owned housing
+- what exactly are the particularities of accommodations that belong to separate hostel proprietors
+- what exactly are the facilities of independently owned accommodations
+- what actually are the particularities of housings that belong to independent owners
+- what exactly are the particularities of housings that are owned by independent landlords
+- what exactly are the particularities of independently owned rooms
+- what will be a independently owned housing
+- what in fact are the facilities of accommodations that are owned by separate housing holders
+- what is a independently owned place
+- what exactly are the facilities of housings that belong to private landlords
+- what exactly are the facilities of places being owned by independent owners
+- what exactly are the particularities of places belonging to separate landlords
+- what exactly are the facilities of independently owned places
+- what is a privately owned accommodation
+- what actually are the facilities of places that belong to private owners
+- what actually are the facilities of hostels belonging to private room proprietors
+- what is a independently owned hostel
+- what exactly are the facilities of independently owned rooms
+- what in fact are the facilities of rooms that are owned by separate room proprietors
+- what in fact are the facilities of independently owned accommodations
+- what exactly are the facilities of hostels that are owned by private accommodation landowners
+- what's a privately owned room
+- what'd be a independently owned room
+- what'd be a independently owned accommodation
+- what in fact are the particularities of accommodations being owned by separate landlords
+- what'll be a independently owned place
+- what exactly are the particularities of places being owned by private accommodation landowners
+- what would be a privately owned accommodation
+- what actually are the facilities of hostels being owned by independent owners
+- what exactly are the facilities of independently owned hostels
+- what in fact are the facilities of independently owned hostels
+- what actually are the facilities of privately owned hostels
+- what in fact are the particularities of places being owned by private accommodationowners
+- what's a independently owned accommodation
+- what is a privately owned housing
+- what is a independently owned accommodation
+- what'll be a independently owned housing
+- what in fact are the facilities of places being owned by private landlords
+- what actually are the particularities of places that are owned by private landlords
+- what in fact are the facilities of accommodations being owned by private accommodation holders
+- what in fact are the facilities of places that are owned by private place landowners
+- what will be a independently owned place
+
+## intent:list-private-hostel-owners
+- who are private hostel proprietors
+- what about private landowners
+- who are independent housing landowners
+- I am searching for support info of private place holders
+- do you please have a inventory of independent hostel proprietors
+- who are private accommodation proprietors
+- is it possible to obtain a table of independent landlords
+- I need particulars of private room holders
+- I want particulars of private hostelowners
+- would you be so kind and show me about independent room proprietors
+- I would really love particulars of independent owners
+- who are independent landlords
+- independent landowners
+- who are private landowners
+- tell me about independent landlords
+- who are separate placeowners
+- who are independent hostel landowners
+- who are separate room proprietors
+- is it possible for me to get a index of private owners
+- who are private landlords
+- is it possible to get a index of private landlords
+- who are separate housing proprietors
+- do you please have a record of private owners
+- private landowners
+- would you please have a inventory of private housing proprietors
+- I would really want the support information of separate landlords please
+- what about private room proprietors
+- who are separate accommodation holders
+- I am searching for particulars of independent housing holders
+- can you please tell me about private owners
+- independent placeowners
+- is it possible to acquire a record of independent hostelowners
+- I need particulars of separate hostel proprietors
+- I'd like the support information of private room holders please
+- private placeowners
+- separate landlords
+- do you have a listing of separate accommodationowners
+- would you have a record of separate landlords
+- I am looking for support information of separate hostel holders
+- is it possible to get a index of independent housing proprietors
+- who are private accommodation holders
+- I need the support information of private landlords please
+- would you please have a listing of independent landlords
+- what about separate accommodation proprietors
+- information on separate landlords
+- do you please have a list of private owners
+- who are separate landlords
+- I need support information of independent accommodation holders
+- what about independent landlords
+- I'd really like the support information of independent owners please
+- recommendation about separate room proprietors
+- I am looking for support info of separate landlords
+- would you please have a inventory of separate landlords
+- information on private hostel proprietors
+- info on independent accommodation holders
+- do you please have a index of independent landlords
+- who are independent owners
+- what about independent accommodation holders
+- do you please have a index of independent owners
+- would you have a record of private landlords
+- tell me about separate landlords
+- I'd really love to be informed about independent landlords
+- who are private placeowners
+- independent place landowners
+- I'd like the particulars of separate landlords please
+- what about separate owners
+- I would really love the particulars of separate accommodation holders please
+- I would love the particulars of separate room holders please
+- I need the particulars of independent hostel holders please
+- I need support info of separate housingowners
+- what about private place landowners
+- I am searching for the particulars of separate landlords please
+- is it possible to obtain a list of separate landlords
+- would you please have a index of independent room proprietors
+- I would really want the particulars of private landlords please
+- I am searching for the support information of independent landlords please
+- I'd really want the particulars of independent accommodation holders please
+- what about independent owners
+- would you be so kind and tell me about independent landlords
+- what about private owners
+- would you please have a index of private landlords
+- would you please have a inventory of separate hostel proprietors
+- would you please have a index of private accommodation landowners
+- I am searching for particulars of independent hostel holders
+- who are independent placeowners
+- who are independent hostel holders
+- would you have a list of independent landlords
+- show me about private hostel proprietors
+- is it possible for me to get a record of separate landlords
+- would I obtain a inventory of independent place holders
+- recommendation on private landlords
+- is it possible to obtain a index of independent landlords
+- independent landlords
+- private landlords
+- I would love the support information of private hostel landowners please
+- is it possible to receive a listing of separate place holders
+
+## intent:specificities-real-estate-hostels
+- would there be accommodations that belong to real estate agencies
+- what actually are hostels being owned by real estate
+- what exactly are places owned by real estate
+- what exactly are places being owned by real estate
+- are there places belonging to real estate
+- what actually are accommodations being owned by real estate
+- are there places that are owned by real estate agencies
+- are there accommodations that belong to real estate
+- what actually are places being owned by real estate
+- are there housings that are owned by real estate
+- would there be accommodations belonging to real estate agencies
+- what in fact are places belonging to real estate agencies
+- what actually are hostels that are owned by real estate agencies
+- what actually are places owned by real estate
+- are there hostels that belong to real estate agencies
+- what actually are accommodations belonging to real estate
+- are there hostels that belong to real estate
+- what exactly are accommodations that are owned by real estate agencies
+- would there be housings that are owned by real estate
+- what actually are hostels owned by real estate agencies
+- what actually are housings that belong to real estate agencies
+- what exactly are places belonging to real estate agencies
+- what in fact are hostels that are owned by real estate
+- are there places that are owned by real estate
+- are there places that belong to real estate agencies
+- what exactly are places being owned by real estate agencies
+- what in fact are housings owned by real estate
+- what actually are hostels that belong to real estate
+- what exactly are hostels belonging to real estate
+- what exactly are housings owned by real estate
+- are there hostels that are owned by real estate
+- what exactly are hostels that belong to real estate agencies
+- what exactly are accommodations owned by real estate
+- what in fact are housings belonging to real estate
+- what actually are places belonging to real estate
+- are there accommodations belonging to real estate
+- what exactly are rooms that belong to real estate agencies
+- what exactly are hostels being owned by real estate
+- what actually are housings owned by real estate
+- would there be housings belonging to real estate
+- are there accommodations that belong to real estate agencies
+- what actually are rooms owned by real estate agencies
+- are there places belonging to real estate agencies
+- what exactly are housings that are owned by real estate agencies
+- what in fact are accommodations owned by real estate
+- what actually are housings belonging to real estate agencies
+- would there be accommodations being owned by real estate agencies
+- what exactly are places owned by real estate agencies
+- what in fact are rooms that belong to real estate agencies
+- what actually are hostels that are owned by real estate
+- what in fact are housings that are owned by real estate agencies
+- what in fact are housings being owned by real estate agencies
+- would there be housings that are owned by real estate agencies
+- what in fact are accommodations that are owned by real estate
+- what exactly are accommodations owned by real estate agencies
+- what actually are rooms that are owned by real estate agencies
+- what actually are places belonging to real estate agencies
+- what actually are accommodations that belong to real estate agencies
+- what in fact are rooms owned by real estate
+- would there be places belonging to real estate
+- what exactly are accommodations that belong to real estate agencies
+- what in fact are rooms owned by real estate agencies
+- what exactly are accommodations being owned by real estate
+- what in fact are places owned by real estate agencies
+- are there rooms that are owned by real estate
+- would there be rooms being owned by real estate agencies
+- what actually are accommodations owned by real estate
+- are there hostels being owned by real estate
+- what actually are hostels being owned by real estate agencies
+- what in fact are housings owned by real estate agencies
+- what actually are rooms owned by real estate
+- what exactly are hostels that belong to real estate
+- are there housings belonging to real estate
+- would there be hostels being owned by real estate agencies
+- would there be housings being owned by real estate
+- are there housings that belong to real estate agencies
+- are there rooms being owned by real estate
+- what exactly are accommodations belonging to real estate
+- what in fact are accommodations that are owned by real estate agencies
+- would there be housings belonging to real estate agencies
+- would there be places belonging to real estate agencies
+- what actually are places owned by real estate agencies
+- what exactly are rooms being owned by real estate agencies
+- would there be hostels belonging to real estate
+- are there hostels belonging to real estate
+- would there be places being owned by real estate
+- would there be rooms that are owned by real estate
+- what in fact are accommodations owned by real estate agencies
+- what exactly are hostels owned by real estate agencies
+- are there housings being owned by real estate agencies
+- what in fact are accommodations belonging to real estate
+- would there be accommodations that belong to real estate
+- would there be hostels that are owned by real estate agencies
+- what in fact are hostels owned by real estate agencies
+- what in fact are rooms that are owned by real estate
+- would there be accommodations being owned by real estate
+
+## intent:list-real-estate
+- advice on real estate agencies
+- would I have a table of real estate agencies
+- information on real estate agencies
+- I would really like a estate agencies
+- do you have a list of real estate agencies
+- is it possible for me to have a list of real estate agencies
+- I would really want to know about real estate agencies
+- I would really want a real estate agencies
+- I'd love to know about real estate agencies
+- is it possible to have a record of real estate agencies
+- would you show me about real estate agencies
+- I would really love a estate agencies
+- can you show me about real estate agencies
+- would you have a inventory of real estate agencies
+- could I have a list of real estate agencies
+- would you please have a record of real estate agencies
+- I want a real estate agencies
+- would you have a table of real estate agencies
+- would I have a record of real estate agencies
+- I would really like a real estate agencies
+- I'd really want a real estate agencies
+- would you tell me about real estate agencies
+- is it possible to have a inventory of real estate agencies
+- can I have a record of real estate agencies
+- can I have a listing of real estate agencies
+- I would really like to know about real estate agencies
+- I'd like a real estate agencies
+- I would like a real estate agencies
+- I'd really want a estate agencies
+- would you please have a listing of real estate agencies
+- do you please have a list of real estate agencies
+- I need a real estate agencies
+- would you please have a inventory of real estate agencies
+- help about real estate agencies
+- is it possible for me to have a index of real estate agencies
+- I'd love a estate agencies
+- I would really want a estate agencies
+- I would love to know about real estate agencies
+- piece of advice on real estate agencies
+- could I have a record of real estate agencies
+- would you please have a index of real estate agencies
+- recommendations on real estate agencies
+- can you please tell me about real estate agencies
+- I would like a estate agencies
+- do you please have a listing of real estate agencies
+- can I have a table of real estate agencies
+- do you have a inventory of real estate agencies
+- do you have a listing of real estate agencies
+- would you be so kind and show me about real estate agencies
+- I would really love a real estate agencies
+- do you please have a inventory of real estate agencies
+- can you please show me about real estate agencies
+- is it possible to have a index of real estate agencies
+- I'd like to learn about real estate agencies
+- do you please have a record of real estate agencies
+- tip about real estate agencies
+- is it possible for me to have a record of real estate agencies
+- aid about real estate agencies
+- is it possible for me to have a table of real estate agencies
+- I'd really love a real estate agencies
+- I want to know about real estate agencies
+- I would love a estate agencies
+- could I have a index of real estate agencies
+- would you have a listing of real estate agencies
+- I'd want a real estate agencies
+- I would love to learn about real estate agencies
+- instructions about real estate agencies
+- is it possible to have a table of real estate agencies
+- tips on real estate agencies
+- would I have a inventory of real estate agencies
+- I would really want to be informed about real estate agencies
+- do you have a record of real estate agencies
+- I would like to be informed about real estate agencies
+- I'd really want to know about real estate agencies
+- I want a estate agencies
+- would you please have a table of real estate agencies
+- show me about real estate agencies
+- I want to learn about real estate agencies
+- could I have a inventory of real estate agencies
+- I'd want a estate agencies
+- I'd really like to learn about real estate agencies
+- could I have a listing of real estate agencies
+- info about real estate agencies
+- information about real estate agencies
+- is it possible for me to have a listing of real estate agencies
+- would I have a list of real estate agencies
+- do you please have a index of real estate agencies
+- would you have a record of real estate agencies
+- I'd really love to be informed about real estate agencies
+- counselling about real estate agencies
+- I'd love a real estate agencies
+- I am searching for a estate agencies
+- would you please have a list of real estate agencies
+- do you please have a table of real estate agencies
+- I'd really love a estate agencies
+- I'd like to be informed about real estate agencies
+
+## intent:what-hostel-types
+- what kind of hostels would there be at NUST
+- are there different kinds of housings
+- would there be different sorts of rooms there
+- what possibilities of room do I have
+- what possibilities of place are there
+- what possibilities of housing would there be
+- what hostels are there
+- what kind of rooms exist at nust
+- what possibilities of place would there be in Islamabad
+- would there be several sorts of housings there
+- what possibilities of place do I have at the uni
+- what rooms would there be in pakistan
+- would there be several sorts of housings
+- which type of accommodations would there be at nust
+- which housings exist at nust
+- what possibilities of hostel would there be
+- what possibilities of hostel would there be in Nust
+- what rooms are there at nust
+- which places exist in NUST
+- what possibilities of housing are there in Isb
+- which rooms exist in isb
+- what type of hostels would there be
+- what hostels would there be at NUST
+- which housings exist
+- would there be different sorts of rooms in nust
+- what rooms exist
+- what places would there be
+- would there be different types of accommodations
+- which kind of accommodations are there there
+- which sort of housings exist in Pakistan
+- are there several sorts of rooms at nust
+- what possibilities of accommodation do I have
+- are there several sorts of hostels at islamabad
+- would there be several sorts of hostels
+- are there several kinds of rooms
+- what type of accommodations would there be there
+- which places exist at NUST
+- what accommodations exist at nust
+- which rooms would there be
+- what accommodations are there
+- are there different sorts of accommodations in Pakistan
+- are there several types of places in belgium
+- what possibilities of place do I have at NUST
+- would there be different types of housings
+- what possibilities of room do I have at university of science and technology
+- what possibilities of accommodation do I have there
+- are there several sorts of accommodations in Islamabad
+- what type of places exist there
+- are there several types of rooms
+- what possibilities of room do I have at college
+- which sort of places are there in Pakistan
+- what possibilities of room would there be there
+- which type of housings would there be there
+- which kind of hostels exist there
+- which sort of places would there be at the university
+- are there different types of places
+- which type of rooms would there be there
+- what possibilities of room do I have in Pakistan
+- what possibilities of accommodation are there there
+- which accommodations exist
+- what rooms exist in Nust
+- what possibilities of accommodation would there be
+- are there different kinds of accommodations there
+- would there be different kinds of accommodations
+- what type of housings exist
+- what possibilities of place would there be
+- are there different types of hostels at islamabad
+- which type of housings would there be at nust
+- are there different types of housings in pakistan
+- what possibilities of housing would there be at nust
+- what kind of hostels exist
+- would there be different kinds of housings
+- which type of housings would there be at ISB
+- would there be several kinds of housings at NUST
+- are there different kinds of housings at NUST
+- are there several kinds of hostels in Pakistan
+- are there several types of places
+- what possibilities of place do I have there
+- would there be several types of accommodations
+- what possibilities of housing do I have in Pakistan
+- would there be several kinds of housings there
+- what possibilities of housing do I have
+- what type of rooms exist in pakistan
+- are there different sorts of housings in pakistan
+- what possibilities of accommodation are there
+- would there be several types of places there
+- what possibilities of accommodation do I have at NUST
+- what possibilities of housing would there be there
+- are there different types of accommodations
+- what possibilities of hostel do I have there
+- would there be several types of places in islamabad
+- which kind of places would there be in nust
+- are there different sorts of accommodations
+- what possibilities of accommodation are there at nust
+- would there be different types of places
+- would there be several kinds of housings in Pakistan
+
+## intent:more-info-NUST-shared-hostel
+- more information about nust shared hostels
+- more information on shared rooms
+- tell me more about Nust shared places
+- I would like to know more about shared accommodations
+- more enlightenment about nust shared places
+- I would really want to be informed more about nust shared housings
+- more info about nust shared housings
+- I want to know more about nust shared places
+- would you be so kind and tell me more about shared rooms
+- I would really like to be informed more about shared places
+- I would really want to learn more about shared rooms
+- tell me more about shared housings
+- more information on university shared rooms
+- tell me more about university shared places
+- more advice about shared places
+- I would really want to know more about shared rooms
+- I would really love to learn more about shared accommodations
+- can you please tell me more about NUST shared places
+- I'd really love to learn more about shared housings
+- I'd really love to know more about Nust shared rooms
+- would you be so kind and show me more about shared accommodations
+- more info on shared rooms
+- more direction on shared rooms
+- would you be so kind and tell me more about shared places
+- more help about Nust shared hostels
+- more info on NUST shared housings
+- would you be so kind and show me more about the uni shared housings
+- more help on shared places
+- tell me more about shared hostels
+- could you please tell me more about shared accommodations
+- I would like to be informed more about college shared hostels
+- would you be so kind and tell me more about NUST shared places
+- I would really like to be informed more about shared housings
+- I'd like to learn more about nust shared rooms
+- I would really like to learn more about nust shared hostels
+- more tip about shared rooms
+- show me more about shared rooms
+- I would really want to know more about university shared hostels
+- I would love to be informed more about shared housings
+- more advice on shared places
+
+## intent:more-info-nust-bedsit
+- more tip about nust bedsit
+- I would really want to be informed more about bedsit
+- more counsel about nust bedsit
+- can you tell me more about bedsit
+- I want to be informed more about nust bedsit
+- tell me more about the uni bedsit
+- more info on bedsit
+- I'd really want to be informed more about bedsit
+- I'd love to be informed more about bedsit
+- I'd want to learn more about bedsit
+- would you be so kind and tell me more about Nust bedsit
+- could you tell me more about Nust bedsit
+- more instructions about college bedsit
+- I'd really love to be informed more about nust bedsit
+- I'd really want to know more about college bedsit
+- more direction on bedsit
+- I would really love to know more about uni bedsit
+- I'd like to know more about bedsit
+- more help on bedsit
+- more counselling about bedsit
+- more guidance on NUST bedsit
+- would you please tell me more about nust bedsit
+- I would really like to know more about bedsit
+- I'd really like to be informed more about bedsit
+- tell me more about nust bedsit
+- show me more about nust bedsit
+- show me more about bedsit
+- would you be so kind and show me more about Nust bedsit
+- would you show me more about bedsit
+- I would really want to learn more about bedsit
+- would you be so kind and tell me more about uni bedsit
+- I'd really like to know more about bedsit
+- more information about nust bedsit
+- tell me more about uni bedsit
+- more enlightenment on uni bedsit
+- tell me more about NUST bedsit
+- more information on nust bedsit
+- would you be so kind and show me more about bedsit
+- more information about bedsit
+
+## intent:more-info-NUST-studios
+- I'd really love to learn more about studios
+- tell me more about NUST studios
+- I'd like to be informed more about studios
+- would you please tell me more about studios
+- I want to know more about studios
+- more aid on studios
+- I'd like to know more about uni studios
+- more info on nust studios
+- I'd like to know more about studios
+- more info about NUST studios
+- I would really want to learn more about studios
+- I want to know more about nust studios
+- would you be so kind and tell me more about studios
+- would you be so kind and show me more about studios
+- would you please tell me more about nust studios
+- I would love to know more about NUST studios
+- I would really like to be informed more about studios
+- I'd really like to learn more about studios
+- more recommendations about studios
+- more information on university studios
+- more counseling on nust studios
+- I'd really like to be informed more about NUST studios
+- could you show me more about NUST studios
+- more information about studios
+- I would really want to know more about studios
+- more counseling about NUST studios
+- more recommendation on college studios
+- I want to learn more about studios
+- I'd really love to know more about studios
+- I'd like to learn more about university studios
+- I would really want to be informed more about uni studios
+- I'd like to know more about NUST studios
+- I'd love to be informed more about university studios
+- show me more about nust studios
+- tell me more about studios
+- tell me more about nust studios
+- more counseling about university studios
+- I'd really love to be informed more about the university studios
+- more direction about studios
+- more info about studios
+
+## intent:more-info-NUST-family-hostel
+- tell me more about family places
+- more counseling about NUST family places
+- more info on nust family rooms
+- more information on family housings
+- I would love to be informed more about nust family places
+- more aid on family hostels
+- more information on family hostels
+- more info on family accommodations
+- I want to learn more about family accommodations
+- more info on family rooms
+- more information on the university family housings
+- I would love to know more about family hostels
+- I'd want to know more about family accommodations
+- I'd want to be informed more about family rooms
+- more guidance on the university family places
+- I'd want to be informed more about family accommodations
+- I'd really want to be informed more about family rooms
+- would you be so kind and show me more about nust family housings
+- more advice about family places
+- would you show me more about university family places
+- tell me more about family hostels
+- show me more about the uni family rooms
+- would you be so kind and show me more about the college family rooms
+- tell me more about family accommodations
+- more information about family housings
+- I would really like to learn more about Nust family hostels
+- more information about NUST family places
+- I'd want to learn more about NUST family housings
+- I want to be informed more about NUST family hostels
+- I'd want to know more about NUST family accommodations
+- show me more about Nust family hostels
+- more aid about nust family rooms
+- tell me more about NUST family rooms
+- more enlightenment about NUST family housings
+- I'd want to be informed more about family places
+- I'd really love to be informed more about family rooms
+- I would love to be informed more about family places
+- I would like to be informed more about family housings
+- more recommendations on family rooms
+- more information on nust family housings
+
+## intent:more-info-adapted-hostels
+- more enlightenment on NUST housings for handicaped undergraduates
+- I want to learn more about Nust places for disabled people
+- show me more about nust adapted hostels
+- more info about adapted rooms
+- can you tell me more about the uni adapted hostels
+- I would love to learn more about nust rooms for handicaped students
+- tell me more about nust accommodations for disabled people
+- I would really love to know more about adapted housings
+- more advice about rooms for disabled people
+- would you be so kind and show me more about adapted rooms
+- I would really like to learn more about NUST adapted accommodations
+- more info about the university hostels for disabled people
+- more info on nust housings for handicaped pupils
+- more enlightenment on nust hostels for disabled people
+- I would really want to learn more about NUST rooms for handicaped undergraduates
+- more info on the university hostels for handicaped undergraduates
+- show me more about hostels for disabled people
+- tell me more about NUST adapted rooms
+- more info on hostels for handicaped pupils
+- more info about Nust housings for disabled people
+- would you show me more about nust housings for handicaped students
+- I would really like to learn more about rooms for disabled people
+- more piece of advice about nust hostels for disabled people
+- would you please show me more about places for handicaped students
+- I'd really want to be informed more about the uni accommodations for handicaped students
+- more info on rooms for disabled people
+- can you show me more about accommodations for handicaped pupils
+- could you tell me more about accommodations for handicaped pupils
+- tell me more about places for disabled people
+- would you show me more about nust housings for disabled people
+- more direction on rooms for handicaped pupils
+- more info about housings for disabled people
+- more advice on accommodations for disabled people
+- more guidance on rooms for disabled people
+- more information about adapted accommodations
+- I would love to be informed more about rooms for handicaped students
+- I would really love to learn more about NUST adapted accommodations
+- I would like to be informed more about accommodations for disabled people
+- I'd really like to be informed more about college rooms for handicaped pupils
+- I'd like to be informed more about adapted places
+
+## intent:where-hostels
+- what about hostels spots
+- rooms spots
+- where're accommodations
+- where'd be housings
+- where'll be places
+- where'll be situated rooms
+- where is it possible for me to find places
+- where are hostels
+- show me about rooms situations
+- info about places situations
+- where are housings placed
+- what about housings spots
+- where are places located
+- places locations
+- info about hostels spots
+- where are hostels situated
+- where're placed housings
+- would you be so kind and show me about accommodations spots
+- where are housings situated
+- accommodations places
+- would you be so kind and tell me about housings situations
+- where are places situated
+- I would love to know about rooms spots
+- where are accommodations
+- counselling about accommodations situations
+- where can I find accommodations
+- where're rooms
+- where would I find hostels
+- I would like to be informed about places locations
+- where are situated accommodations
+- rooms situations
+- I'd really want to know about places spots
+- where're placed rooms
+- where can I find housings
+- housings situations
+- where will be rooms
+- where are housings
+- where are located places
+- where will be places
+- I would really like to know about rooms situations
+- information about hostels locations
+- counselling on places spots
+- where is it possible to find accommodations
+- where will be housings
+- where'd be placed accommodations
+- where're placed accommodations
+- where are rooms situated
+- where can I find rooms
+- where is it possible for me to find housings
+- where would be situated accommodations
+- where would I find accommodations
+- where could I find rooms
+- housings spots
+- where could I find places
+- would you please tell me about rooms places
+- where will be placed rooms
+- what about places situations
+- where'll be located accommodations
+- housings places
+- I would really love to know about rooms places
+- where'd be accommodations
+- where are places placed
+- where could I find accommodations
+- what about hostels situations
+- recommendations on hostels places
+- help on places situations
+- where is it possible to find places
+- would you please show me about rooms situations
+- where'll be rooms
+- where would be places
+- information about housings places
+- where is it possible for me to find accommodations
+- where're housings
+- where'd be hostels
+- what about accommodations places
+- where is it possible to find housings
+- accommodations locations
+- what about housings locations
+- where are rooms placed
+- places spots
+- where are located rooms
+- info on accommodations spots
+- could you please tell me about rooms places
+- where would I find rooms
+- info on accommodations situations
+- where are placed places
+- where would I find housings
+- would you be so kind and show me about rooms situations
+- what about rooms places
+- where would I find places
+- where'll be placed accommodations
+- where are accommodations situated
+- where is it possible to find rooms
+- where are situated hostels
+- where is it possible for me to find rooms
+- where are housings located
+
+## intent:are-there-hotels
+- I would love a motel at islamabad
+- would there be hotels in Islamabad
+- are there hotels at islamabad
+- where will be placed hotels
+- I am looking for a hotel at islamabad
+- where're placed hotels
+- are there hotels
+- would there be hotels in ISB
+- where're hotels at Islamabad
+- where'll be inns
+- where're inns
+- I am searching for inns at islamabad
+- I'd really love a hotel at islamabad
+- where're situated inns
+- I am searching for hotels in ISB
+- where are inns at Islamabad
+- would there be inns in Islamabad
+- would there be hotels at islamabad
+- where will be motels at islamabad
+- I am searching for a hotel at ISB
+- where would be placed motels in Islamabad
+- where would be located hotels
+- where'd be located hotels at islamabad
+- where will be hotels in Islamabad
+- I am searching for a inn at Islamabad
+- I would really want hotels in Islamabad
+- where are located hotels at Islamabad
+- where are placed hotels at islamabad
+- where'll be situated hotels at ISB
+- where will be hotels
+- are there hostels
+- I'd like hotels at Islamabad
+- would there be hotels in islamabad
+- where'd be placed hotels
+- are there inns in Islamabad
+- where'd be situated inns
+- where'd be placed motels in Islamabad
+- where would be hotels
+- I need hotels in Islamabad
+- I am looking for a hotel in Islamabad
+- where are placed hotels
+- I am searching for a hotel in islamabad
+- would there be inns
+- I'd love a hotel at ISB
+- are there hotels in Isb
+- where would be inns
+- would there be hotels in Is
+- would there be inns at islamabad
+- are there motels in islamabad
+- would there be hotels at ISB
+- where are hotels in Islamabad
+- where'd be located hotels in ISB
+- where're hotels
+- where'd be placed hotels at ISB
+- I need motels at Islamabad
+- where're hotels in Islamabad
+- where would be placed hotels at Islamabad
+- where're situated hotels in Islamabad
+- where're located hotels
+- where'll be placed motels in ISB
+- are there inns at Islamabad
+- where'll be hotels in ISB
+- where're inns in Is
+- would there be hotels at Islamabad
+- I am searching for inns at Islamabad
+- where are situated hotels
+- are there motels in ISB
+- I need hotels at Islamabad
+- where'll be situated hotels
+- where'd be hotels
+- where are hotels
+- where'd be located hotels
+- would there be hotels at Is
+- would there be hotels
+- I'd really like a hotel in islamabad
+- are there motels at Islamabad
+- are there inns
+- where'll be situated hotels at Islamabad
+
+## intent:are-there-youth-hostels
+- are there youth hotels
+- where are located youth hostels
+- where're youth hotels in Isb
+- would there be youth hotels
+- would there be youth motels
+- are there youth hotels at islamabad
+- where're youth hotels at islamabad
+- I am searching for a youth hotel in islamabad
+- where will be youth inns at islamabad
+- I need a youth hotel in Is
+- where are youth hotels
+- would there be youth inns in Islamabad
+- where'd be placed youth hotels in Islamabad
+- I'd really love a youth hostel in ISB
+- would there be youth hostels in Islamabad
+- I need youth hotels at ISB
+- I need youth hostels in Is
+- where're located youth hotels at islamabad
+- where are youth hostels at Isb
+- where're placed youth inns at Islamabad
+- are there youth motels
+- where're placed youth motels in Islamabad
+- would there be youth hotels in Islamabad
+- are there youth hotels at Islamabad
+- I am searching for youth hostels at Isb
+- where're situated youth hotels
+- where'd be situated youth hostels in Islamabad
+- I am searching for a youth motel in Islamabad
+- where will be placed youth inns
+- where'd be youth hotels
+- where are situated youth motels
+- where'll be youth hotels
+- I would love a youth hostel at islamabad
+- are there youth hotels in Islamabad
+- would there be youth inns
+- where will be situated youth motels at Islamabad
+- where are located youth motels in Islamabad
+- where are located youth inns
+- I want youth hostels at Isb
+- where are located youth hotels
+- I would really love a youth hotel at Islamabad
+- where will be placed youth hotels at Isb
+- would there be youth hotels in islamabad
+- would there be youth motels at Islamabad
+- I need a youth motel in Is
+- are there youth hotels in islamabad
+- I need youth hostels at Islamabad
+- are there youth hostels in islamabad
+- are there youth hostels at ISB
+- where'll be placed youth hotels in Islamabad
+- are there youth inns at ISB
+- where are youth hostels in Islamabad
+- I am searching for a youth inn in Islamabad
+- where would be youth hotels in Islamabad
+- where are placed youth hotels
+- where'll be youth inns at Isb
+- I would really like youth hostels in ISB
+- where're youth hotels at Islamabad
+- where will be placed youth hotels
+- I need youth hostels in Islamabad
+- I'd really like youth hostels at Islamabad
+- where are youth inns in Islamabad
+- I'd love youth inns in Islamabad
+- I am looking for a youth hotel in Islamabad
+- I need a youth motel in islamabad
+- would there be youth hotels at ISB
+- where're situated youth motels at islamabad
+- would there be youth inns at islamabad
+- I am looking for youth hostels at islamabad
+- where will be youth hotels at ISB
+- where are located youth hotels in Islamabad
+- are there youth hostels
+- where'll be situated youth hotels at ISB
+- where will be situated youth hostels at Islamabad
+- where'd be youth hostels in Islamabad
+- I need a youth inn in islamabad
+- where are situated youth inns
+- where would be placed youth hotels
+- where'd be placed youth hotels in Isb
+- are there youth inns
+- where will be youth hotels in Islamabad
+- are there youth inns at Islamabad
+- where'd be located youth hotels
+- where're situated youth hostels
+- I need youth hotels at Islamabad
+- would there be youth hostels in Isb
+- would there be youth hostels at Islamabad
+
+## intent:useful-info-hostels
+- practical direction on hostels
+- places
+- where would I get practical direction on rooms
+- where is it possible to get practical recommendations on accommodations
+- where can I obtain practical recommendation on housings
+- practical information about housings
+- where can I acquire practical advice on places
+- practical direction on places
+- where is it possible for me to get practical information on housings
+- practical instruction about housings
+- where would I acquire practical info on housings
+- where is it possible for me to receive practical counsel about accommodations
+- where can I get practical information on hostels
+- where is it possible for me to acquire practical information on accommodations
+- practical enlightenment on accommodations
+- practical info on housings
+- where can I obtain practical info about housings
+- where can I obtain practical instruction on accommodations
+- where is it possible to obtain practical info on rooms
+- where could I obtain practical enlightenment on housings
+- where is it possible for me to obtain practical info about places
+- where is it possible to acquire practical tip about hostels
+- where is it possible for me to get practical info on places
+- where could I get practical info about places
+- what about hostels in practice
+- what about places in practice
+- practical information about hostels
+- where is it possible for me to obtain practical tip about accommodations
+- where can I receive practical instructions about hostels
+- practical information on rooms
+- where could I obtain practical info about places
+- where could I get practical information on accommodations
+- where could I get practical info on hostels
+- practical guidance on accommodations
+- where can I get practical tip on hostels
+- where would I receive practical information about housings
+- where could I receive practical info about rooms
+- practical guidance about hostels
+- where is it possible to acquire practical help about hostels
+- where would I obtain practical info on accommodations
+- practical guidance about rooms
+- where is it possible to get practical counsel on accommodations
+- where would I obtain practical information about hostels
+- practical information about rooms
+- where could I acquire practical information on hostels
+- where is it possible to obtain practical information about housings
+- where could I obtain practical enlightenment on rooms
+- where is it possible for me to receive practical guidance about places
+- where is it possible for me to obtain practical guidance on places
+- where is it possible to obtain practical enlightenment on housings
+- where is it possible for me to obtain practical aid on places
+- where is it possible to receive practical counselling on hostels
+- practical info about housings
+- what about accommodations in practice
+- what about rooms in practice
+- practical direction about rooms
+- where is it possible for me to acquire practical direction about places
+- where would I obtain practical direction on places
+- where would I acquire practical help about hostels
+- where is it possible to obtain practical information about places
+- where would I obtain practical recommendations on places
+- practical info about rooms
+- practical info on hostels
+- where could I receive practical direction on places
+- where is it possible for me to get practical information about rooms
+- practical enlightenment about housings
+- practical enlightenment about places
+- accommodations
+- practical info on accommodations
+- where is it possible to get practical info about places
+- where could I receive practical instruction on accommodations
+- where is it possible for me to obtain practical info on places
+- where can I receive practical help about rooms
+- practical tips about accommodations
+- where is it possible to get practical advice about places
+- where is it possible for me to acquire practical info about housings
+- where is it possible to receive practical help about places
+- where is it possible to receive practical information on places
+- where is it possible to obtain practical pieces of advice on housings
+- practical info on places
+- practical help about housings
+- practical information about accommodations
+- where can I acquire practical information about hostels
+- where is it possible to receive practical direction about hostels
+- where is it possible for me to acquire practical information on places
+- practical piece of advice about rooms
+- where is it possible to receive practical counseling on places
+- where is it possible for me to get practical direction on rooms
+- practical pieces of advice about housings
+- where is it possible for me to acquire practical help on places
+- practical enlightenment about accommodations
+- rooms
+- where is it possible to acquire practical tip on housings
+- what about housings in practice
+- hostels
+- where is it possible for me to obtain practical information on rooms
+
+## intent:info-support-hostel
+- where is it possible for me to receive assistance about hostels
+- where could I obtain support about rooms
+- I need assistance for places
+- where would I get counseling about rooms
+- I want support about places problems
+- I would like assistance about accommodations
+- where can I get instructions about hostels
+- where is it possible for me to get help about hostels
+- what does syello stand for
+- where is it possible to obtain assistance about accommodations
+- define syello please
+- I want assistance about housings
+- is there a help service for place advice
+- I'd really like support about hostels
+- where would I acquire assistance about hostels
+- where is it possible to acquire information about accommodations
+- where is it possible to acquire counselling about rooms
+- I'd want help for places problems
+- is there a aid service for housing support
+- I am searching for guidance about hostels
+- I would like advice about hostels
+- where would I get support about housings
+- where is it possible for me to acquire support about places
+- where is it possible to acquire support about hostels
+- I need aid about housings problems
+- where can I receive support about hostels
+- is there a assistance service for place advice
+- where is it possible to get aid about accommodations
+- I am searching for advice about hostels
+- where can I obtain support about places
+- I am searching for support for accommodations
+- I need guidance for places problems
+- I need advice for housings
+- where can I obtain support about accommodations
+- I need assistance about rooms
+- where is it possible to receive enlightenment about housings
+- I'd really like to know about what syello means
+- would there be a aid service for hostel problems
+- contact
+- where could I get info about hostels
+- I am looking for help for places
+- what syello in fact means
+- where is it possible to get guidance about housings
+- what'll be syello in fact
+- what'd be syello
+- what about what syello means
+- would there be a support service for room advice
+- would there be a guidance service for housing support
+- I'd love aid for hostels
+- would there be a help service for accommodation problems
+- what's syello exactly
+- is there a advice service for room support
+- where would I get info about hostels
+- would there be a assistance service for place support
+- where can I receive help about housings
+- what syello means
+- would there be a help service for housing advice
+- would there be a assistance service for room advice
+- where is it possible for me to receive support about accommodations
+- where is it possible to get information about housings
+- where is it possible for me to receive support about housings
+- where is it possible to acquire instruction about hostels
+- tell me about what syello in fact stands for
+- is there a help service for place support
+- where is it possible for me to receive help about housings
+- where can I receive info about accommodations
+- I am looking for advice about rooms
+- I need assistance for accommodations
+- I am looking for support for accommodations
+- is there a guidance service for room support
+- I need help about housings problems
+- what's syello actually
+- would there be a aid service for accommodation problems
+- is there a help service for place problems
+- I am searching for help for accommodations problems
+- what does syello mean
+- information about what syello is
+- explain what syello stands for please
+- would there be a help service for room support
+- where could I obtain aid about rooms
+- is there a assistance service for room advice
+- is there a assistance service for hostel support
+- explain syello
+- describe what syello is
+- what's syello in fact
+- I need assistance for hostels
+- I am looking for advice about hostels problems
+- where would I obtain guidance about accommodations
+- explain what syello means
+- where is it possible for me to receive info about accommodations
+- contacts
+- where is it possible for me to receive advice about accommodations
+- would there be a advice service for accommodation support
+- I am looking for support for housings
+- would there be a advice service for room problems
+- I would really love aid about rooms
+- would there be a aid service for place advice
+- would there be a support service for accommodation support
+- where could I receive assistance about rooms
+
+## intent:what-housing-possibilities
+- how do I sublet a hostel to house
+- housings
+- what in fact are my housing possibilities
+- I would love to get a hostel to
+- i want to get an accommodation
+- what actually are my housing solutions
+- where can I live
+- I need a accommodation
+- would I lease a housing to
+- could you please tell me about hostels
+- could you please tell me about housings
+- I'd really love to rent a place to
+- I'd really love to obtain a place
+- what will I have to do for getting a hostel
+- where can I house
+- rooms
+- where can I stay
+- tell me about accommodations
+- I'd really like to receive a accommodation
+- tell me about rooms
+- I am looking for a place
+- Where to go when I'd really want to get an accommodation
+- what exactly are the accommodation solutions
+- I want to know about places
+- what in fact are my accommodation solutions
+- could you please show me about hostels
+- what should I do if I would really love to get a hostel
+- I want to acquire a accommodation
+- I would really want to get a housing
+- where would I live
+- could I acquire a housing to house
+- would you be so kind and show me about places
+- I need a place
+- Who would assistance when I'd really love to get a hostel
+- I'd really love to acquire a place
+- I'd really love to acquire a hostel
+- I want a place
+- I'd love to get a room to
+- I'd really want to get an accommodation where should I go
+- i want to get an accommodation what to do
+- What to do when I'd really love to get a hostel
+- I'd want to get a hostel
+- i'd really love to get an accommodation
+- what about housings
+- I'd really love to get an accommodation
+- I would like to get a hostel
+- could I rent a hostel to
+- I want a housing
+- Where will I have to go for getting a hostel
+- I'd really like to get a room
+- Who should I call for getting a hostel
+- where would I accommodate
+- I'd really like a room
+- I am searching for a room
+- I'd want to get a room
+- hostels
+- Who is it possible for me to get in touch with for getting a hostel
+- would you please tell me about accommodations
+- What to do if I'd really like to get an accommodation
+- where is it possible for me to house
+- I want to be informed about rooms
+- where could I stay
+- What should I do for getting a hostel
+- I would really love a accommodation
+- what exactly are my accommodation possibilities
+- where is it possible to house
+- recommendation on hostels
+- is it possible for me to acquire a room to house
+- where do I need to go for getting a hostel
+- What to do for getting a hostel
+- I would really want to get a hostel, what to do
+- what about places
+- I would really like to get an accommodation who can help
+- I'd really love to get a room
+- I want to receive a housing
+- counselling about accommodations
+- I would really want to lease a housing to
+- I'd like to be informed about housings
+- I would really love to obtain a hostel
+- i want to get a hostel
+- i would love to get a hostel, who is it possible for me to ask
+- I would love to learn about places
+- I would really like to get an accommodation, where will I have to go
+- I'd like to receive a place
+- I want to obtain a accommodation
+- I'd like to lease a room to
+- i would really like to get a hostel
+- is it possible to rent a accommodation to
+- What do I need to do for getting a hostel
+- What to do if I want to get an accommodation
+- how to receive a accommodation to
+- I'd want to get a hostel, where should I go
+- what exactly are the housing possibilities
+- I would love to get an accommodation, who could advice
+- I would like a hostel
+- Who can advice for getting a hostel
+- is it possible for me to receive a place to stay
+- i want to get an accommodation who do I have to get in touch with
+- I want to acquire a housing
+- I would like to get an accommodation who can assistance
+- I would really like to be informed about places
+- i'd want to get an accommodation
+- what actually are the accommodation possibilities
+- how would I get a hostel to
+- who could support to rent a room to stay
+- what in fact are the housing solutions
+- where to go when I want to get a hostel
+- I'd love to get a hostel
+- I'd really like to acquire a room
+- is it possible for me to receive a place to
+- who could guidance for getting a hostel
+- i would really want to get a hostel, where do I need to go
+- I'd want to obtain a accommodation
+- I'd love to obtain a room
+- I'd love a accommodation
+- I'd really like to rent a accommodation to accommodate
+- What would I do if I'd love to get an accommodation
+- Where should I have to go if I'd love to get an accommodation
+- what to do to rent a place to
+- Who could support for getting a hostel
+- I would really want to get a room to
+- how to lease a accommodation to
+- I'd want to get an accommodation, where to go
+- I would love to get a hostel
+- can I obtain a room to house
+- I would really want a hostel
+- I would really want to obtain a housing
+- I need a room
+- I want to acquire a room
+- I'd really want to get an accommodation who would I get in touch with
+- I'd really want to get a hostel
+- how to rent a place to
+- accommodations
+- how to acquire a room to
+- what to do when I'd really love to get an accommodation
+- I'd love to obtain a place
+- where is it possible to stay
+- where is it possible to live
+- information about rooms
+- i'd like to get a hostel
+- I want to acquire a hostel
+- i would really want to get a hostel
+- I'd really want to acquire a place to
+- what in fact are the accommodation possibilities
+- what actually are the housing solutions
+- I would really love to get an accommodation
+- i'd really love to get a hostel, what would I do
+- what to do to lease a place to house
+- i'd like to get an accommodation who should I get in touch with
+- i want to get a hostel, where to go
+- I would really want to get an accommodation where do I have to go
+- I need a hostel
+- I'd want to acquire a housing
+- could I rent a accommodation to
+- where to go to acquire a housing to accommodate
+- i would really love to get an accommodation
+- I am looking for a housing
+- where is it possible for me to stay
+- I want to know about hostels
+- I need a housing
+
+## intent:get-nust-hostel
+- I need a NUST place
+- information about getting a place owned by NUST
+- I am searching for a accommodation that belong to NUST
+- I'd want to know about getting a room owned by nust
+- how can I get a nust accommodation
+- how do I receive a housing that belong to the uni
+- getting a place owned by college
+- I am looking for a room that are owned by the college
+- I would love to receive a room that belong to the uni
+- I want to get a hostel owned by NUST
+- how can I receive a accommodation that are owned by NUST
+- getting a nust hostel
+- getting a housing that belong to NUST
+- I am looking for a place owned by nust
+- I'd really love a place that are owned by uni
+- how could I receive a room owned by university
+- I would really love a place owned by university
+- I want to be informed about getting a nust place
+- what about getting a the college place
+- want to book a room
+- I would really want a hostel owned by university
+- want to register a room
+- I am looking for a NUST accommodation
+- how is it possible for me to obtain a accommodation owned by the university
+- would you be so kind and tell me about getting a nust accommodation
+- I'd really love to know about getting a uni place
+- I am searching for a uni room
+- need a nust hostel
+- i want to register a hostel
+- I would really love a hostel that are owned by university
+- I would like a hostel that belong to the uni
+- who could aid to get a hostel owned by NUST
+- how do I receive a nust accommodation
+- how to obtain a nust hostel
+- show me about getting a housing that are owned by nust
+- how is it possible for me to get a place owned by nust
+- register a nust hostel
+- information on getting a place owned by the college
+- I need a hostel that belong to college
+- I would really love to acquire a NUST housing
+- I would really want to learn about getting a accommodation owned by university
+- who could support to obtain a place owned by nust
+- registration
+- I'd want a the college hostel
+- where do I need to go to acquire a room owned by nust
+- I need a the university place
+- where to go to acquire a accommodation owned by NUST
+- how is it possible to acquire a nust housing
+- what would I do to get a hostel owned by NUST
+- where do I have to go to acquire a NUST housing
+- help on getting a nust hostel
+- I would love a NUST accommodation
+- I would really want to learn about getting a nust accommodation
+- what about getting a room that are owned by nust
+- I am searching for a hostel that are owned by NUST
+- I would really like to acquire a NUST accommodation
+- how would I get a NUST housing
+- how do I receive a room owned by college
+- would you tell me about getting a hostel that belong to the university
+- enlightenment on getting a hostel owned by NUST
+- I need a hostel that belong to nust
+- how is it possible for me to obtain a housing that belong to nust
+- I would love a NUST hostel
+- what about getting a NUST accommodation
+- I am searching for a NUST accommodation
+- I am searching for a university place
+- I need a hostel that are owned by college
+- show me about getting a the college place
+- I am searching for a housing owned by uni
+- I would love to be informed about getting a NUST hostel
+- getting a housing owned by the uni
+- how do I receive a accommodation that belong to the uni
+- getting a room owned by university
+- I need a room that are owned by nust
+- how is it possible to obtain a accommodation that belong to the uni
+- want to book a hostel
+- I'd want a room that are owned by nust
+- I'd like to acquire a place owned by NUST
+- how would I obtain a place that belong to college
+- I'd really want a room owned by nust
+- I want to Book a hostel
+- how to acquire a the uni room
+- I want a NUST hostel
+- show me about getting a hostel that belong to NUST
+- I need a hostel owned by NUST
+- how do I get a accommodation that belong to the university
+- how is it possible to obtain a housing that are owned by NUST
+- who would assistance to get a housing that belong to nust
+- information about getting a nust accommodation
+- how would I get a housing that belong to NUST
+- I'd love to learn about getting a NUST room
+- I need a uni room
+- would you please tell me about getting a hostel that are owned by nust
+- I want to learn about getting a housing that are owned by nust
+- I would really like a nust room
+- I need a housing owned by nust
+- I need a nust hostel
+- how is it possible to get a accommodation owned by uni
+- what about getting a hostel owned by nust
+- I am looking for a room that belong to nust
+- information on getting a NUST place
+
+## intent:contact-NUST-housing-service
+- what exactly are the particulars of the NUST accommodation service
+- get in touch with housing Service
+- what exactly are the particulars of the nust housing service
+- what in fact are the particulars of the university Accommodation Service
+- get in touch with the nust Housing services
+- what in fact are the contact information of Housing service
+- I'd want to get a nust hostel
+- what to do if I would really want to get a nust hostel
+- nust housing Services
+- what about housing services
+- tell me about Accommodation service
+- what exactly are the particulars of the university housing service
+- I would love to know about nust Accommodation services
+- show me about NUST accommodation services
+- reach the NUST Housing Services
+- recommendation on Accommodation Service
+- I need to call Accommodation service
+- I want to get a nust hostel
+- I want to call the nust Housing Services
+- I'd really want to call accommodation Service
+- what actually are the contact information of the nust accommodation service
+- contact housing Service
+- what actually are the contact info of Accommodation Service
+- contact the NUST housing services
+- I need to reach housing Service
+- I would really want to be informed about nust accommodation service
+- where to go to get in touch with Housing service
+- I'd really want to call Accommodation service
+- I would really like to call the nust housing services
+- I need to call Accommodation Service
+- what in fact are the contact info of Housing Service
+- I need to call housing service
+- I would really want to be informed about NUST housing Service
+- I need to contact housing Service
+- what in fact are the particulars of Housing Service
+- I would really want to be informed about housing service
+- how do I reach Accommodation service
+- where should I go when I want to get a nust hostel
+- I need to contact Accommodation Service
+- I would really want to call the nust Accommodation Services
+- I need to reach the university Accommodation services
+- how is it possible to contact Accommodation Service
+- What do I have to do if I would really want to get a nust hostel
+- what in fact are the contact info of the the university Housing Service
+- i would really want to get a nust hostel what should I do
+- what do I need to do when I'd really want to get a nust hostel
+- I'd like to get in touch with housing Service
+- i'd really want to get a nust hostel
+- the university accommodation service
+- call Housing Service
+- I would love to contact the the college Accommodation Services
+- I want to get in touch with Housing Service
+- how do I contact the nust Housing services
+- what exactly are the contact info of Housing Service
+- how do I contact accommodation Service
+- I'd really like to get a nust hostel
+- get in touch with Housing service
+- what about nust housing Service
+- what to do to contact accommodation service
+- I would really love to get in touch with Accommodation Service
+- how to contact Housing Service
+- housing Services
+- what actually are the contact information of housing service
+- who would support if I'd love to get a nust hostel
+- what exactly are the contact information of Accommodation service
+- how would I get in touch with Accommodation service
+- I need to call housing Service
+- I'd really like to call the nust Housing Services
+- where would I have to go to call the NUST housing services
+- NUST Housing services
+- what actually are the particulars of the nust housing Service
+- I'd really love to reach the nust Housing Services
+- what exactly are the contact information of the NUST Housing service
+- the college housing Services
+- I would really like to contact the nust accommodation Services
+- I would love to call the NUST accommodation services
+- get in touch with the university Housing services
+- what in fact are the contact info of the NUST housing service
+- I want to contact the the college Housing services
+- I would really want to learn about nust Housing Service
+- I'd really want to call the nust accommodation Services
+- i want to get a nust hostel, what should I do
+- Where would I go if I would love to get a nust hostel
+- reach the university accommodation Services
+- I would like to contact the the university housing services
+- accommodation Services
+- what exactly are the contact info of Accommodation Service
+- call Accommodation service
+- I want to reach accommodation service
+- what in fact are the particulars of the NUST housing Service
+- who could I ask to contact the nust Housing services
+- call the NUST accommodation Services
+- what actually are the contact information of the NUST Housing service
+- would you be so kind and tell me about the college Housing service
+
+## intent:get-private-hostel
+- I'd really love to be informed about getting a independently owned accommodation
+- recommendations about getting a independently owned housing
+- how do I get a privately owned place
+- how to receive a place that belonging to a independent accommodation landowner
+- what about getting a hostel that are owned by a private landlord
+- getting a independently owned place
+- I would really love to get a privately owned hostel
+- how do I receive a accommodation that being owned by a independent hostel holder
+- how is it possible for me to get a independently owned hostel
+- information about getting a privately owned hostel
+- what about getting a place that being owned by a private place proprietor
+- getting a privately owned place
+- how do I acquire a privately owned housing
+- I would love to get a privately owned hostel what to do
+- I'd like to obtain a hostel that are owned by a private landowner
+- I would really want to obtain a room that are owned by a private housing landowner
+- getting a accommodation that being owned by a independent landlord
+- how do I obtain a privately owned place
+- I would really want to get a privately owned hostel
+- I'd love to learn about getting a place that belonging to a private roomowner
+- I want to receive a housing that belong to a separate hostel holder
+- I'd really want to receive a accommodation that belonging to a independent housing landowner
+- what about getting a room that belonging to a separate housingowner
+- how do I obtain a independently owned room
+- how is it possible to receive a accommodation that are owned by a separate accommodation landowner
+- who can guidance to obtain a housing that are owned by a separate accommodation holder
+- information about getting a privately owned housing
+- I'd like to acquire a independently owned accommodation
+- how can I receive a housing that being owned by a private place proprietor
+- what about getting a independently owned housing
+- i'd love to get a privately owned hostel, where would I go
+- how to obtain a independently owned accommodation
+- getting a privately owned accommodation
+- who should I tell when I'd like to get a privately owned hostel
+- who can I contact to get a independently owned hostel
+- i'd really like to get a privately owned hostel, where would I need to go
+- tell me about getting a independently owned accommodation
+- how could I get a housing that are owned by a separate hostel holder
+- where should I need to go to receive a place that being owned by a private accommodation proprietor
+- where will I go when I want to get a privately owned hostel
+- how to get a privately owned room
+- how do I receive a accommodation that being owned by a private accommodationowner
+- info on getting a independently owned room
+- getting a accommodation that belong to a independent owner
+- getting a place that being owned by a private accommodation proprietor
+- what about getting a place that belonging to a private hostel landowner
+- how to acquire a hostel that being owned by a private owner
+- i would love to get a privately owned hostel, what should I do
+- recommendation about getting a independently owned accommodation
+- how is it possible to receive a independently owned accommodation
+- I'd really love to obtain a privately owned housing
+- i want to get a privately owned hostel, who is it possible for me to get in touch with
+- info on getting a accommodation that belong to a separate landlord
+- who will I get in touch with when I want to get a privately owned hostel
+- i'd really love to get a privately owned hostel, what should I need to do
+- I'd really want to acquire a room that belonging to a separate accommodation proprietor
+- how do I acquire a hostel that belong to a separate housing holder
+- info about getting a privately owned hostel
+- how would I acquire a independently owned place
+- show me about getting a hostel that being owned by a separate hostel proprietor
+- how do I receive a accommodation that are owned by a independent landlord
+- I would really like to obtain a independently owned accommodation
+- i'd like to get a privately owned hostel, who would assistance
+- how to acquire a privately owned room
+- how do I acquire a room that belong to a separate housing landowner
+- who would guidance to acquire a hostel that belonging to a separate place proprietor
+- where to go to obtain a place that belong to a separate place proprietor
+- what about getting a independently owned room
+- I'd really like to receive a accommodation that belonging to a private room landowner
+- how would I acquire a independently owned housing
+- who should I reach to obtain a privately owned place
+- where to go to obtain a privately owned place
+- info about getting a independently owned hostel
+- I'd really love to be informed about getting a privately owned accommodation
+- I want to be informed about getting a place that are owned by a separate landlord
+- what about getting a place that belonging to a independent housing holder
+- what about getting a housing that are owned by a private room proprietor
+- i want to get a privately owned hostel
+- Who could I get in touch with if I would like to get a privately owned hostel
+- What to do if I'd love to get a privately owned hostel
+- where to go to receive a hostel that being owned by a separate placeowner
+- getting a accommodation that belong to a independent placeowner
+- how is it possible for me to get a accommodation that belong to a independent landlord
+- how would I obtain a independently owned place
+- getting a accommodation that are owned by a private landlord
+- how is it possible to obtain a independently owned accommodation
+- how do I get a hostel that are owned by a independent landlord
+- what about getting a hostel that belonging to a independent landowner
+- getting a privately owned room
+- I'd love to know about getting a independently owned accommodation
+- what to do when I'd really love to get a privately owned hostel
+- how do I get a privately owned housing
+- who should I get in touch with to obtain a independently owned place
+- would you be so kind and show me about getting a housing that belong to a separate landlord
+- what will I do to get a independently owned housing
+- I'd really want to get a privately owned hostel what would I do
+
+## intent:get-real-estate-hostel
+- counseling about getting a real estate hostel
+- I'd like to get a real estate hostel what should I do
+- tip on getting a real estate room
+- what will I do when I'd love to get a real estate hostel
+- tell me about getting a real estate hostel
+- I would really like to get a real estate hostel where to go
+- i'd like to get a real estate hostel, who should I have to call
+- where should I have to go to receive a hostel that belonging to a real estate agency
+- info on getting a real estate housing
+- getting a room that belong to a real estate agency
+- how is it possible for me to obtain a real estate agencies housing
+- counseling about getting a real estate housing
+- what about getting a real estate housing
+- I'd want to learn about getting a hostel that being owned by a real estate agency
+- would you please show me about getting a real estate agencies room
+- how do I obtain a room that belong to a real estate agency
+- Where to go if I would really like to get a real estate hostel
+- who should I need to contact to acquire a real estate agencies accommodation
+- what about getting a real estate agencies housing
+- I'd love to get a real estate hostel
+- I'd really want to know about getting a room that belong to a real estate agency
+- how do I get a hostel that are owned by a real estate agency
+- how can I receive a real estate place
+- how can I receive a real estate agencies housing
+- how can I obtain a real estate agencies hostel
+- would you please tell me about getting a real estate room
+- i would like to get a real estate hostel where to go
+- getting a room that belonging to a real estate agency
+- recommendation on getting a real estate agencies place
+- how to receive a room that are owned by a real estate agency
+- where would I go if I'd want to get a real estate hostel
+- how to receive a real estate agencies room
+- i'd like to get a real estate hostel
+- tell me about getting a room that being owned by a real estate agency
+- how would I get a real estate agencies housing
+- getting a hostel that belonging to a real estate agency
+- where do I have to go to obtain a real estate accommodation
+- I'd really love to learn about getting a real estate agencies hostel
+- I'd really like to get a real estate hostel, what to do
+- how to get a housing that are owned by a real estate agency
+- how can I get a real estate room
+- how to obtain a room that are owned by a real estate agency
+- how to get a real estate agencies housing
+- guidance about getting a real estate hostel
+- I would really want to be informed about getting a real estate hostel
+- what about getting a real estate hostel
+- can you please show me about getting a real estate housing
+- where would I go to obtain a real estate agencies place
+- i'd like to get a real estate hostel who would advice
+- would you be so kind and tell me about getting a place that being owned by a real estate agency
+- how can I get a real estate agencies accommodation
+- how can I obtain a accommodation that belong to a real estate agency
+- what about getting a place that being owned by a real estate agency
+- i'd like to get a real estate hostel, who would I get in touch with
+- information about getting a place that belonging to a real estate agency
+- who is it possible to call if I'd really love to get a real estate hostel
+- how can I obtain a room that belonging to a real estate agency
+- would you be so kind and show me about getting a room that are owned by a real estate agency
+- how do I obtain a accommodation that belong to a real estate agency
+- who would aid to get a real estate place
+- where should I go if I would love to get a real estate hostel
+- what about getting a housing that are owned by a real estate agency
+- getting a accommodation that being owned by a real estate agency
+- I would really want to obtain a housing that belonging to a real estate agency
+- i want to get a real estate hostel
+- what about getting a real estate agencies accommodation
+- can you please tell me about getting a real estate hostel
+- what to do to get a accommodation that being owned by a real estate agency
+- i'd like to get a real estate hostel who is it possible to get in touch with
+- how could I acquire a real estate agencies housing
+- I want to obtain a hostel that belonging to a real estate agency
+- I'd really want to receive a hostel that belonging to a real estate agency
+- how could I receive a room that being owned by a real estate agency
+- what about getting a place that are owned by a real estate agency
+- info on getting a real estate accommodation
+- I would really like to get a real estate hostel where should I go
+- how to get a place that belong to a real estate agency
+- I'd like to be informed about getting a real estate hostel
+- how to acquire a real estate agencies accommodation
+- i'd really want to get a real estate hostel, where should I go
+- how to get a room that belong to a real estate agency
+- how do I obtain a real estate agencies room
+- what about getting a real estate agencies room
+- I'd like to acquire a real estate agencies hostel
+- info about getting a real estate accommodation
+- recommendation about getting a real estate housing
+- where to go when I'd like to get a real estate hostel
+- getting a real estate housing
+- what about getting a housing that being owned by a real estate agency
+- I would like to acquire a real estate hostel
+- would you be so kind and tell me about getting a room that belong to a real estate agency
+- who would I get in touch with to receive a room that being owned by a real estate agency
+- what about getting a hostel that are owned by a real estate agency
+- getting a place that being owned by a real estate agency
+- I'd love to receive a room that belonging to a real estate agency
+- how to acquire a real estate place
+
+## intent:get-hostel-keys
+- show me about place key
+- how do I obtain the keys of the housing
+- I'd really love to learn about hostel key
+- accommodation key
+- I need the key of my place
+- direction on place key
+- info about room key
+- how would I get the keys of my place
+- I would love to learn about room keys
+- how to get the keys of my accommodation
+- what should I have to do to obtain the keys of my housing
+- how do I get the keys of the accommodation
+- I'd like the key of my accommodation
+- how is it possible for me to get the key of my housing
+- I need the keys of the accommodation
+- I would love the key of my hostel
+- I'd like to be informed about accommodation keys
+- I'd really like the keys of my housing
+- I would love the keys of the room
+- how to obtain the keys of the accommodation
+- who would assistance to obtain the key of the place
+- I would love the key of the accommodation
+- I would really like to get the keys of my place
+- I want the keys of the room
+- how to get the key of the room
+- information about place key
+- hostel keys
+- I need the key of my hostel
+- I need the key of the hostel
+- I'd really want to receive the keys of the place
+- what about accommodation keys
+- how to receive the key of my hostel
+- how could I acquire the key of the place
+- I would really want the key of the housing
+- I'd want the key of the accommodation
+- how is it possible for me to receive the keys of the hostel
+- I would really love the key of my hostel
+- room key
+- how do I get the key of my hostel
+- would you be so kind and tell me about housing key
+- enlightenment on room key
+- what about room keys
+- how to get the keys of my place
+- I'd like the key of my hostel
+- I would really like to obtain the keys of my hostel
+- info on housing keys
+- how to get the keys of the room
+- I need the key of my room
+- I want the keys of the hostel
+- enlightenment on accommodation key
+- info about housing key
+- what will I have to do to obtain the key of my housing
+- I'd really want the keys of my accommodation
+- hostel key
+- I want the keys of my housing
+- I would really love to learn about hostel keys
+- what about hostel keys
+- I'd really want the keys of the hostel
+- what about hostel key
+- I want the key of the accommodation
+- I need the key of the housing
+- what about place keys
+- I'd love to get the keys of the housing
+- I'd like the keys of the accommodation
+- I need the keys of the room
+- I would love to be informed about room key
+- I'd like to get the keys of my room
+- housing key
+- I'd love the key of my accommodation
+- I'd want the keys of my hostel
+- I need the keys of the hostel
+- I would love the keys of the accommodation
+- I'd love the keys of the place
+- what about room key
+- I need the keys of my room
+- I want to get the key of the housing
+- I'd really like to acquire the keys of the housing
+- place key
+- what about place key
+- how is it possible for me to acquire the key of my housing
+- I would really like the keys of the accommodation
+- I'd like to be informed about room key
+- I would really want to be informed about housing keys
+- where to go to obtain the keys of my accommodation
+- how do I acquire the keys of my housing
+- I need the keys of my place
+- tell me about hostel key
+- how could I get the keys of my place
+- I'd really like to get the keys of the place
+- direction about place keys
+- I would really love to receive the key of my hostel
+- pieces of advice about housing key
+- would you be so kind and tell me about place keys
+- I'd really like to get the keys of my place
+- how could I receive the keys of my housing
+- who can advice to get the key of the place
+
+## intent:price-NUST-hostels
+- I need the monthly price of a nust accommodation
+- what's the usual cost of NUST places
+- is it high-priced to obtain a college housing
+- what's the price of the university places
+- how much money do students pay for a nust housing
+- is it overpriced to get a nust hostel
+- is it expensive to get a the uni room
+- how much do I pay for a NUST room
+- how much money do undergraduates pay for a NUST hostel
+- what does a university place cost
+- is it costly to get a NUST housing
+- how much do I pay for a nust room
+- what'll be the cost of nust places
+- is it overpriced to obtain a NUST room
+- what's the standard monthly cost of nust rooms
+- how much does a nust housing cost
+- how much does a the uni hostel cost
+- what does a NUST hostel cost
+- is it costly to receive a nust hostel
+- how much do undergraduates pay for a NUST place
+- is it costly to obtain a nust room
+- I need the monthly cost of a nust room
+- how much money do I pay for a nust housing
+- I am searching for the cost for a NUST housing
+- what does a uni place cost
+- is it high-priced to get a NUST place
+- is it expensive to receive a uni hostel
+- is it overpriced to acquire a the uni accommodation
+- I am looking for the monthly cost for a nust room
+- how much do I pay for a nust place
+- what'll be the typical cost of the college places
+- what does a the university room cost
+- I am searching for the monthly cost for a nust place
+- I need the monthly price for a nust hostel
+- what does a uni housing cost
+- is it expensive to obtain a NUST accommodation
+- is it expensive to get a college hostel
+- I want the monthly cost for a nust place
+- how much does a the uni room cost
+- how much money do graduates pay monthly for a nust housing
+- is it overpriced to get a NUST hostel
+- how much money do graduates pay monthly for a college housing
+- what does a nust place cost
+- how much money does a NUST place cost
+- what do I pay for a nust place
+- how much money do I pay monthly for a college hostel
+- what do I pay monthly for a nust room
+- is it expensive to obtain a college housing
+- what do I pay monthly for a NUST place
+- I am searching for the monthly cost for a NUST accommodation
+- what'd be the price of college rooms
+- I need the monthly price for a nust accommodation
+- what do students pay for a nust place
+- what does a nust housing cost
+- I am looking for the price of a NUST hostel
+- what's the monthly cost of the college accommodations
+- what will be the price of nust housings
+- I am searching for the cost of a NUST place
+- what does a college accommodation cost
+- I need the price for a the uni hostel
+- is it costly to acquire a the university hostel
+- what does a nust accommodation cost
+- how much do graduates pay monthly for a NUST room
+- I'd really like the price for a the uni hostel
+- is it overpriced to get a uni housing
+- what does a NUST room cost
+- is it high-priced to acquire a nust place
+- what does a university room cost
+- what does a college housing cost
+- how much money does a nust room cost
+- what do graduates pay monthly for a nust room
+- what'd be the standard price of nust rooms
+- what's the monthly cost of NUST rooms
+- how much money do pupils pay for a uni room
+- what'd be the monthly cost of uni places
+- how much money does a NUST room cost
+- I need the cost of a NUST room
+- what is the cost of uni places
+- I would really want the price of a college hostel
+- what do pupils pay monthly for a the uni room
+- I need the cost of a the uni place
+- what is the usual monthly price of nust housings
+- I am searching for the cost of a nust housing
+- is it costly to obtain a uni hostel
+- how much do pupils pay for a nust hostel
+- I am looking for the monthly cost of a nust accommodation
+- what do I pay for a NUST accommodation
+- how much money do I pay monthly for a nust housing
+- I need the price for a uni accommodation
+- what is the typical cost of NUST rooms
+- what do I pay for a university housing
+- is it high-priced to obtain a nust hostel
+- is it costly to obtain a NUST hostel
+- I'd really want the monthly cost for a NUST housing
+
+## intent:how-pay-monthly-hostel
+- how do I pay the monthly rental for my accommodation
+- could you please show me about payment for my hostel
+- who could I ask to pay the monthly rental for my place
+- recommendation about mmonthly payment for my accommodation
+- I'd really love to be informed about payment for my hostel
+- how do I pay the rent for my housing
+- how to pay the monthly amount of money for my housing
+- where to go to pay the lease for my place
+- how can I pay the monthly amount of money for my accommodation
+- would you be so kind and tell me about mmonthly payment for the accommodation
+- I'd like to be informed about payment for my place
+- what about payment for my hostel
+- what do I have to do to pay the monthly amount of money for my housing
+- help on payment for the room
+- info about mmonthly payment for my hostel
+- what about payment for my housing
+- how would I pay the monthly amount of money for my housing
+- I'd like to pay the monthly lease for my hostel
+- how to pay the rental for my room
+- where should I go to pay the monthly rent for my housing
+- how to pay the monthly amount of money for my accommodation
+- I'd want to pay the lease for my housing
+- what should I need to do to pay the monthly amount of money for my hostel
+- would you be so kind and tell me about mmonthly payment for my hostel
+- how do I pay the lease for my housing
+- how to pay the monthly lease for my room
+- how to pay the amount of money for my hostel
+- what about payment for my room
+- how do I pay the lease for my room
+- how to pay the monthly lease for my place
+- payment for the hostel
+- info about mmonthly payment for the hostel
+- info about mmonthly payment for my accommodation
+- what about mmonthly payment for my room
+- I'd really love to know about payment for my hostel
+- info about mmonthly payment for my room
+- how is it possible to pay the monthly amount of money for my place
+- show me about payment for my place
+- I want to learn about payment for the hostel
+- payment for the room
+- what about payment for the accommodation
+- what about payment for the hostel
+- how to pay the lease for my room
+- what about payment for my place
+- mmonthly payment for the place
+- how to pay the monthly amount of money for my room
+- I'd really want to know about mmonthly payment for the hostel
+- tips on mmonthly payment for the room
+- how do I pay the rent for my place
+- what about mmonthly payment for the hostel
+- what about payment for my accommodation
+- I'd really like to pay the monthly lease for my housing
+- how to pay the rent for my place
+- I would love to learn about payment for the place
+- how to pay the monthly rent for my hostel
+- direction about payment for the place
+- I'd love to learn about mmonthly payment for my place
+- what about payment for the room
+- would you please show me about payment for my accommodation
+- information about mmonthly payment for my room
+- how would I pay the monthly amount of money for my room
+- how to pay the lease for my place
+- info on mmonthly payment for my accommodation
+- information about mmonthly payment for my place
+- I would like to be informed about payment for my place
+- I'd really like to learn about mmonthly payment for the hostel
+- help about mmonthly payment for the room
+- counsel about mmonthly payment for my accommodation
+- how do I pay the amount of money for my place
+- where do I have to go to pay the rent for my housing
+- what about mmonthly payment for the accommodation
+- what to do to pay the lease for my housing
+- help about mmonthly payment for my room
+- could you tell me about mmonthly payment for my place
+- how to pay the amount of money for my housing
+- info about payment for my housing
+- enlightenment about payment for my place
+- how do I pay the monthly rental for my housing
+- who would support to pay the amount of money for my accommodation
+- I'd really want to pay the monthly rent for my room
+- I would love to pay the monthly lease for my place
+- what about payment for the housing
+- information on mmonthly payment for my room
+- payment for the housing
+- what about payment for the place
+- tell me about mmonthly payment for my room
+- payment for my place
+- tell me about mmonthly payment for the accommodation
+- tip on mmonthly payment for the housing
+- show me about mmonthly payment for the accommodation
+- mmonthly payment for my hostel
+- payment for my accommodation
+- how can I pay the amount of money for my housing
+- would you be so kind and show me about mmonthly payment for my housing
+- I'd love to pay the lease for my place
+- I'd really want to know about payment for the housing
+
+## intent:what-if-not-pay-hostel
+- what if students pay my lease late
+- what will happen if graduates forget to pay my lease
+- what if I'm late on my monthly payment for the hostel
+- what will happen when student forget to pay my monthly rent on time
+- what exactly could happen when I pay my monthly rental too late
+- what if I forget to pay the lease
+- what exactly could you do if I'm late on the payment for the hostel
+- what exactly could happen if pupil forget to pay the monthly lease on time
+- what exactly would you do if pupil forget to pay the lease
+- what would you do if I'm late on the monthly payment for the hostel
+- what if I'm late on the payment for my place
+- what exactly could happen if I am late on my monthly payment for my housing
+- what could happen when pupils forget to pay my lease
+- what exactly will happen when I forget to pay the monthly lease on time
+- what if I'm late on the payment for my housing
+- what if I don't pay the monthly lease on time
+- what if I'm late on my monthly payment for the accommodation
+- what if students pay my monthly lease too late
+- what exactly would happen if I pay the rent late
+- what if I forget to pay my monthly lease on time
+- what would happen when students don't pay the rental
+- what if I'm late on my payment for the place
+- what if I don't pay my monthly lease on time
+- what if I pay my rent late
+- what if pupil pay the monthly lease too late
+- what if I pay the monthly rent too late
+- what if pupil don't pay my monthly rental on time
+- what if I am late on the monthly payment for my place
+- what if pupils don't pay my lease
+- what would happen when undergraduate pay the rental late
+- what if I am late on the payment for my room
+- what could you do when I am late on the monthly payment for my place
+- what if I pay my rental late
+- what exactly could you do when graduate don't pay my monthly rent on time
+- what would happen when I pay my monthly rental too late
+- what exactly will happen if undergraduates pay the lease late
+- what will you do when I don't pay my monthly rental on time
+- what could you do if students forget to pay the monthly lease on time
+- what exactly would happen when pupil pay my monthly rent too late
+- what exactly could happen if I am late on my payment for the hostel
+- what exactly will happen when I forget to pay the monthly rental on time
+- what if students pay the rent late
+- what would happen if I am late on the monthly payment for the place
+- what could you do when I'm late on the monthly payment for my hostel
+- what exactly would happen if I am late on my monthly payment for the accommodation
+- what if students pay my rent late
+- what will happen when I forget to pay my monthly lease on time
+- what will you do if graduates pay the lease late
+- what if I pay my monthly lease too late
+- what would happen if I forget to pay the monthly rent on time
+- what exactly would you do if I'm late on the payment for the room
+- what if student pay my monthly rent too late
+- what if I'm late on my monthly payment for the room
+- what exactly will happen if I forget to pay the monthly lease on time
+- what if students don't pay my monthly rental on time
+- what exactly could happen when I'm late on my monthly payment for the housing
+- what if I pay the monthly rental too late
+- what exactly could happen if I don't pay my lease
+- what if I'm late on my monthly payment for my hostel
+- what if I am late on the monthly payment for my hostel
+- what would you do if I forget to pay the rental
+- what if I am late on the payment for the room
+- what would happen if I don't pay my lease
+- what will you do when pupils pay the lease late
+- what if student pay my monthly lease too late
+- what if pupils pay the monthly rental too late
+- what will you do when undergraduate pay the rental late
+- what exactly will happen if I'm late on my monthly payment for the accommodation
+- what if student forget to pay my monthly lease on time
+- what if I pay my lease late
+- what if undergraduates forget to pay my rent
+- what could you do if I forget to pay the monthly lease on time
+- what exactly would you do when students forget to pay the lease
+- what if undergraduates pay the monthly lease too late
+- what if pupil forget to pay my monthly lease on time
+- what if I forget to pay my rent
+- what exactly will happen when pupils forget to pay my rental
+- what exactly would happen if I forget to pay my monthly lease on time
+- what if undergraduate don't pay my monthly lease on time
+- what if I am late on the monthly payment for the place
+- what would you do when I'm late on my payment for the place
+- what would you do when I don't pay my rent
+- what if I am late on my monthly payment for my housing
+- what exactly could you do when pupil don't pay the monthly rental on time
+- what exactly could happen when I don't pay my rent
+- what exactly could you do when pupil pay my monthly rental too late
+- what exactly could you do when I'm late on the payment for my housing
+- what exactly will happen if I am late on my monthly payment for my hostel
+- what if I am late on the monthly payment for the room
+- what exactly would happen when undergraduate pay my rent late
+- what if I don't pay the lease
+- what could you do if I pay my monthly lease too late
+- what will happen if pupils pay the rental late
+- what could happen when I'm late on the payment for my accommodation
+- what if I forget to pay my monthly rental on time
+- what exactly could happen when I am late on my monthly payment for my place
+
+## intent:get-hostel-request-proof
+- what to do to acquire a accommodation request evidence
+- I want to receive a certificate that I requested a NUST room
+- who would I get in touch with to receive a accommodation request testimony
+- what will I do to receive a attestation that I requested a the university place
+- I would really want to acquire the certificate that I requested a nust accommodation
+- I am looking for a accommodation testimony
+- how is it possible for me to receive the certificate that I asked for a nust accommodation
+- how to get the the university accommodation request testimony
+- where to go to get a evidence that I requested a nust place
+- I'd really like a housing testimony
+- how do I get the accommodation request certificate
+- how do I acquire the housing request testimony
+- I need a NUST housing attestation
+- I am searching for a university accommodation evidence
+- how to obtain a accommodation request testimony
+- I would really want to receive the evidence that I requested a college hostel
+- how is it possible to get a housing request proof
+- how is it possible for me to acquire the certificate that I asked for a housing
+- I would really want the university accommodation attestation
+- I want to acquire a proof that I requested a nust housing
+- how do I receive a evidence that I asked for a nust housing
+- I am looking for a NUST accommodation certificate
+- I'd like to receive a proof that I asked for a NUST housing
+- how to obtain a attestation that I requested a nust accommodation
+- I'd really like to get the attestation that I requested a housing
+- how to get a nust housing request proof
+- how do I receive a accommodation request certificate
+- what to do to get a attestation that I asked for a nust room
+- where would I have to go to get the proof that I asked for a place
+- I'd really love to acquire the attestation that I requested a housing
+- how is it possible to acquire the testimony that I requested a university housing
+- what would I do to acquire a NUST accommodation request proof
+- how do I get a attestation that I requested a NUST place
+- I am searching for a housing proof
+- how to acquire the certificate that I asked for a housing
+- where should I go to acquire the certificate that I requested a place
+- how is it possible to get the proof that I asked for a nust housing
+- I'd really want to receive the NUST housing request attestation
+- who would help to acquire the accommodation request attestation
+- I'd really like my accommodation proof
+- what to do to get the proof that I asked for a place
+- I am looking for my nust housing attestation
+- I'd love to acquire the attestation that I asked for a nust room
+- I'd love to get a nust housing request attestation
+- I'd really like to receive the proof that I asked for a NUST accommodation
+- who could aid to get the evidence that I asked for a the uni hostel
+- who could advice to acquire a housing request testimony
+- how to acquire the accommodation request certificate
+- I am searching for the NUST housing certificate
+- how to receive the attestation that I asked for a accommodation
+- how do I receive the accommodation request evidence
+- I am looking for the the uni accommodation testimony
+- I am searching for my the uni housing certificate
+- how is it possible to get the nust accommodation request testimony
+- how can I obtain a testimony that I requested a housing
+- what do I need to do to receive the nust accommodation request evidence
+- I'd like a accommodation attestation
+- I'd really want a NUST accommodation testimony
+- what to do to acquire a college accommodation request testimony
+- how to receive a certificate that I requested a room
+- what to do to get the nust accommodation request attestation
+- I want my housing proof
+- how do I obtain the testimony that I requested a nust housing
+- who could advice to get a NUST housing request proof
+- where to go to obtain the proof that I asked for a nust place
+- I'd want to receive the testimony that I asked for a room
+- how do I obtain the testimony that I asked for a university accommodation
+- I would really want to get a testimony that I requested a housing
+- how to receive the university accommodation request proof
+- I am searching for the NUST housing proof
+- I'd really want to get a certificate that I asked for a nust accommodation
+- how is it possible to acquire the evidence that I asked for a the college room
+- I'd like a NUST housing proof
+- how to acquire the evidence that I requested a accommodation
+- I want the college accommodation attestation
+- I'd love to get a evidence that I requested a room
+- I need a accommodation certificate
+- I want to acquire the evidence that I asked for a the uni room
+- I'd really love the the uni housing testimony
+- how do I obtain a certificate that I requested a the college accommodation
+- how to receive a NUST accommodation request testimony
+- I am searching for a accommodation testimony
+- how can I obtain a proof that I requested a university room
+- how to receive the NUST accommodation request proof
+- how is it possible to acquire the evidence that I asked for a hostel
+- how can I acquire the attestation that I asked for a NUST room
+- what will I do to obtain a certificate that I asked for a NUST housing
+- how to get the evidence that I asked for a the uni housing
+- how is it possible to acquire a testimony that I requested a hostel
+- I'd really want a housing proof
+- how do I receive a testimony that I asked for a room
+- how do I receive a university housing request certificate
+- I am searching for the accommodation proof
+- how to acquire the evidence that I asked for a accommodation
+- I am searching for my nust housing testimony
+- how could I acquire the attestation that I asked for a nust place
+
+## intent:first-thing-to-do-hostel
+- what exactly are the first actions to do on arrival at the accommodation
+- what is the first thing to do when I would arrive in my hostel
+- what actually are the first things to do when I arrive at the room
+- what exactly are the first things to do when I arrive at my room
+- what do I have to do on arrival at the hostel
+- what's the first action to do when I will come in my housing
+- what is it enforced to do on arrival in my nust accommodation
+- what do I need to do when I arrive in my nust hostel
+- what actually are the first things to do when I will show up in the hostel
+- what am I forced to do when I arrive in my the college hostel
+- what will I have to do when I come at my room
+- what in fact are the first things to do when I would arrive at my place
+- what in fact are the first things to do when I will arrive in the housing
+- what is the first stuff to do when I will come in the accommodation
+- what is the first action to take when I show up in my place
+- what in fact are the first actions to take when I will arrive at the place
+- what do I have to do when I would arrive in my place
+- what actually are the first things to do when I will show up at the place
+- would there be stuff to do when I arrive to the housing
+- what is it mandatory to do when I show up at my room
+- what is it compulsory to do upon my arrival in the NUST room
+- what's the first thing to do when I show up in the accommodation
+- would there be obligatory things to do when I show up in my room
+- what would be the first action to do when I would come in the place
+- what is it mandatory to do when I come in my accommodation
+- what'll be the first stuff to do upon my arrival in my hostel
+- what's the first action to take when I show up at the place
+- what actually are the first things to do on arrival in the room
+- what will I do when I arrive at the NUST housing
+- would there be things to do when I come at the housing
+- are there stuff to do when I come to my accommodation
+- what's the first stuff to do upon my arrival in my room
+- would there be things to do upon my arrival in my accommodation
+- would there be stuff to do when I come in my accommodation
+- what will I do on arrival at my the college accommodation
+- what should I do on arrival at my accommodation
+- what in fact are the first actions to do upon my arrival at the place
+- what in fact are the first things to do on arrival in my place
+- what actually are the first actions to do on arrival in my housing
+- what is the first thing to do upon my arrival in the accommodation
+- what will be the first thing to do upon my arrival in the room
+- what would be the first stuff to do when I will show up at the place
+- what is the first stuff to do upon my arrival at the place
+- are there things to do on arrival at my room
+- what exactly are the first things to do upon my arrival at the hostel
+- what will be the first stuff to do on arrival in my room
+- are there obligatory things to do when I will arrive to my room
+- what in fact are the first things to do upon my arrival in my room
+- what's the first thing to do upon my arrival in my hostel
+- what would be the first action to do when I arrive at my place
+- are there enforced things to do upon my arrival at my housing
+- would there be obligatory things to do when I will show up to the accommodation
+- would there be things to do upon my arrival to my hostel
+- what should I do upon my arrival at the place
+- are there stuff to do upon my arrival to my room
+- are there stuff to do on arrival at the accommodation
+- what is it obligatory to do on arrival in the housing
+- what would I have to do when I will show up in the NUST hostel
+- what is it compulsory to do on arrival at my room
+- would there be stuff to do when I will come in my accommodation
+- what will be the first thing to do on arrival at my housing
+- what's the first thing to do upon my arrival in my housing
+- are there stuff to do when I would come to the accommodation
+- what actually are the first things to do on arrival at the place
+- what would I do when I will arrive in my place
+- what in fact are the first things to do upon my arrival at the room
+- are there things to do upon my arrival in my place
+- what do I have to do upon my arrival in my place
+- what actually are the first things to do on arrival at my place
+- what exactly are the first actions to do when I would come in my place
+- what should I need to do on arrival at my housing
+- are there things to do when I would show up to the hostel
+- what should I have to do when I come at the place
+- are there obligatory stuff to do when I show up at the accommodation
+- what exactly are the first actions to do on arrival at my housing
+- what am I forced to do on arrival at the accommodation
+- what should I have to do upon my arrival at the room
+- are there enforced things to do upon my arrival to the room
+- what in fact are the first actions to do when I will come in the hostel
+- what am I forced to do on arrival in the NUST housing
+- what do I have to do upon my arrival in the room
+- are there compulsory stuff to do on arrival in my housing
+- what would be the first stuff to do on arrival in my place
+- what is the first thing to do when I will arrive in my hostel
+- what is it obligatory to do when I arrive at the accommodation
+- what'd be the first action to do on arrival in the room
+- what's the first action to take when I come at my accommodation
+- what in fact are the first actions to do when I would show up in the room
+- are there stuff to do on arrival at my hostel
+- what's the first thing to do when I would arrive in the housing
+- what am I suppposed to do upon my arrival at my nust place
+- what actually are the first actions to do when I arrive at my housing
+- what will be the first action to take upon my arrival in my place
+- would there be compulsory stuff to do upon my arrival to my housing
+- are there things to do when I will come at my place
+- what's the first action to take when I will come at the room
+
+## intent:to-do-before-leaving-hostel
+- are there enforced things to do on departure the room
+- what am I forced to do right before leaving the hostel
+- what am I forced to do on departure a place
+- what would I do upon my departure the housing
+- are there things to do upon my departure my housing
+- what do I have to do upon my departure the room
+- what should I do before leaving a place
+- what will I need to do upon my departure the room
+- would there be stuff to do on departure the room
+- what do I have to do right before I will leave my room
+- what would I need to do upon my departure the room
+- would there be things to do right before I will leave my room
+- what is it enforced to do right before leaving a room
+- would there be stuff to do right before I would leave my place
+- would there be stuff to do right before I will leave my place
+- what should I do right before leaving my accommodation
+- what should I do before I leave a hostel
+- what do I have to do before I leave the place
+- would there be obligatory things to do right before I would leave my accommodation
+- would there be compulsory things to do right before leaving my room
+- are there enforced stuff to do upon my departure the accommodation
+- what do I have to do on departure a accommodation
+- would there be compulsory stuff to do on departure the place
+- are there things to do right before I would leave the hostel
+- are there things to do right before I will leave the room
+- what should I do right before leaving a place
+- are there compulsory things to do before leaving my room
+- what should I do before leaving my place
+- what am I forced to do right before leaving a hostel
+- are there stuff to do upon my departure my room
+- would there be stuff to do on departure my place
+- what am I forced to do before I leave the housing
+- what do I have to do right before I would leave the hostel
+- what is it compulsory to do right before leaving my housing
+- what would I do right before I would leave the place
+- would there be compulsory things to do right before leaving my place
+- would there be compulsory stuff to do right before leaving my place
+- what is it mandatory to do before I leave my housing
+- would there be obligatory things to do upon my departure the housing
+- would there be compulsory things to do upon my departure the hostel
+- are there things to do right before I will leave the hostel
+- what should I have to do right before I will leave my hostel
+- would there be things to do before leaving the housing
+- would there be things to do upon my departure the place
+- would there be obligatory stuff to do right before leaving the room
+- what would I need to do before I leave a place
+- what will I do right before leaving a room
+- i want to leave my hostel
+- what will I do before I leave a room
+- what do I have to do upon my departure my room
+- what will I need to do right before leaving my housing
+- are there things to do before leaving the housing
+- are there things to do before I leave my place
+- would there be stuff to do right before I will leave the room
+- are there things to do upon my departure the room
+- are there stuff to do on departure the accommodation
+- are there stuff to do before I leave the housing
+- what will I do right before leaving a hostel
+- what do I have to do before leaving a room
+- would there be compulsory things to do right before I would leave the accommodation
+- are there obligatory things to do upon my departure my place
+- are there stuff to do on departure the housing
+- are there obligatory stuff to do upon my departure my accommodation
+- what do I have to do on departure my place
+- what is it mandatory to do right before leaving my place
+- what am I suppposed to do before leaving the housing
+- are there stuff to do on departure the place
+- would there be mandatory things to do before I leave the housing
+- are there stuff to do right before leaving the accommodation
+- are there stuff to do before leaving the room
+- what will I have to do on departure my accommodation
+- what would I have to do before I leave my hostel
+- are there compulsory stuff to do before I leave the accommodation
+- what do I need to do before leaving a room
+- leave the hostel
+- would there be stuff to do right before I will leave the place
+- would there be compulsory things to do right before leaving my housing
+- would there be things to do upon my departure the hostel
+- are there enforced stuff to do before I leave the accommodation
+- would there be stuff to do right before leaving the room
+- what is it compulsory to do on departure a room
+- are there obligatory stuff to do right before I will leave my accommodation
+- what do I have to do right before leaving my room
+- what will I need to do before leaving my room
+- what is it obligatory to do right before I would leave my housing
+- are there compulsory things to do upon my departure my place
+- would there be obligatory stuff to do before I leave my place
+- would there be things to do before leaving the accommodation
+- what do I need to do upon my departure my housing
+- what do I have to do right before I will leave a room
+- are there enforced stuff to do before I leave the housing
+- what am I suppposed to do before leaving my place
+- what would I need to do right before leaving the accommodation
+- would there be enforced things to do before leaving the room
+- what do I have to do upon my departure the housing
+- are there obligatory things to do right before leaving the accommodation
+- would there be stuff to do right before I would leave my housing
+- would there be obligatory stuff to do on departure the housing
+
+## intent:no-exit-inventory
+- what would you do if I couldn't make an rendez-vous for a departure inventory on departure
+- what exactly would you do if I couldn't request a departure inventory
+- what if pupils couldn't have a departure inventory
+- what could you do when I don't make an rendez-vous for a departure inventory before leaving
+- what if students didn't come to a departure inventory
+- what if I didn't request a departure inventory
+- what would you do if I didn't make an rendez-vous for a departure inventory right before leaving
+- what will happen if I couldn't make an rendez-vous for a departure inventory right before I will leave
+- what if I didn't make an appointment for a departure inventory on departure
+- what if I don't come to an exit inventory
+- what exactly will you do if students don't have an exit inventory
+- what would you do when I don't make an appointment for a departure inventory right before leaving
+- what exactly could you do if I couldn't make an rendez-vous for an exit inventory before leaving
+- what if I don't make an appointment for an exit inventory right before leaving
+- what could you do when I don't make an appointment for an exit inventory right before I will leave
+- what will you do when I don't request a departure inventory before I leave
+- what could you do if undergraduate don't request an exit inventory before leaving
+- what if I didn't request an exit inventory
+- what will happen when I couldn't make an rendez-vous for an exit inventory before leaving
+- what could you do when I don't make an appointment for an exit inventory on departure
+- what exactly would happen when I didn't have a departure inventory
+- what exactly would you do when I don't make an appointment for an exit inventory right before I would leave
+- what exactly would you do when I couldn't have a departure inventory
+- what could you do if I don't request an exit inventory on departure
+- what if students didn't come to an exit inventory
+- what if students didn't have an exit inventory
+- what exactly could happen when undergraduate couldn't have an exit inventory
+- what if I couldn't make an rendez-vous for a departure inventory right before I would leave
+- what if I don't come to a departure inventory
+- what if graduate couldn't have an exit inventory upon my departure
+- what if graduate don't have a departure inventory
+- what if undergraduate don't have an exit inventory upon my departure
+- what if students didn't come to a departure inventory on departure
+- what would happen if I couldn't request an exit inventory upon my departure
+- what if pupil don't come to a departure inventory
+- what if I didn't make an appointment for a departure inventory before leaving
+- what if undergraduates didn't request a departure inventory
+- what exactly would happen when I couldn't come to an exit inventory
+- what exactly will you do if student didn't come to an exit inventory on departure
+- what could you do if I don't make an appointment for an exit inventory on departure
+- what if I don't make an appointment for an exit inventory right before I will leave
+- what would happen if I didn't make an rendez-vous for a departure inventory on departure
+- what exactly could happen when I couldn't have a departure inventory before leaving
+- what if I don't come to a departure inventory upon my departure
+- what exactly could happen if I didn't make an rendez-vous for an exit inventory before leaving
+- what exactly could happen if I didn't make an appointment for an exit inventory on departure
+- what exactly will you do if I don't make an rendez-vous for an exit inventory right before I would leave
+- what if I didn't make an rendez-vous for a departure inventory right before I would leave
+- what exactly would you do when I don't have an exit inventory right before leaving
+- what exactly could happen if pupil didn't request an exit inventory
+- what if undergraduate don't have a departure inventory
+- what if I couldn't request a departure inventory
+- what if I couldn't have an exit inventory
+- what could happen when pupils don't have an exit inventory
+- what if I don't make an rendez-vous for a departure inventory right before leaving
+- what could you do when I didn't make an rendez-vous for an exit inventory before leaving
+- what if I didn't make an appointment for an exit inventory before I leave
+- what if I didn't make an rendez-vous for an exit inventory upon my departure
+- what if I couldn't make an appointment for a departure inventory before I leave
+- what exactly could happen if I don't make an appointment for an exit inventory before leaving
+- what could happen when I didn't make an rendez-vous for an exit inventory before I leave
+- what exactly would happen if I don't make an rendez-vous for a departure inventory before I leave
+- what exactly could happen when I couldn't come to an exit inventory
+- what if students couldn't request a departure inventory right before leaving
+- what if I couldn't make an appointment for a departure inventory before leaving
+- what exactly would happen when I couldn't request an exit inventory
+- what if I don't make an rendez-vous for a departure inventory upon my departure
+- what exactly would happen if I didn't make an rendez-vous for a departure inventory before I leave
+- what if I couldn't make an appointment for an exit inventory upon my departure
+- what if I couldn't make an rendez-vous for a departure inventory before leaving
+- what if I didn't have a departure inventory
+- what if I couldn't make an appointment for an exit inventory before leaving
+- what will you do if I didn't make an rendez-vous for a departure inventory right before I will leave
+- what if I couldn't make an rendez-vous for a departure inventory right before leaving
+- what if pupil didn't have an exit inventory right before I will leave
+- what if I don't have a departure inventory
+- what exactly could happen when undergraduate don't request a departure inventory
+- what if I couldn't come to a departure inventory before leaving
+- what if I couldn't make an rendez-vous for an exit inventory before leaving
+- what would you do when I don't come to an exit inventory
+- what will happen when I couldn't request an exit inventory
+- what if I couldn't make an rendez-vous for a departure inventory right before I will leave
+- what exactly will happen when I don't make an rendez-vous for an exit inventory right before leaving
+- what if I didn't make an appointment for an exit inventory on departure
+- what will happen if I don't make an rendez-vous for an exit inventory before I leave
+- what if pupils couldn't request a departure inventory upon my departure
+- what if I didn't make an rendez-vous for an exit inventory right before I will leave
+- what if I don't make an rendez-vous for an exit inventory before I leave
+- what exactly would happen when undergraduate couldn't come to a departure inventory
+- what if I don't make an appointment for a departure inventory upon my departure
+- what exactly could you do when students didn't come to an exit inventory right before I would leave
+- what if graduates didn't come to an exit inventory before leaving
+- what if I didn't make an appointment for an exit inventory right before leaving
+- what if I couldn't request an exit inventory
+- what will you do if students couldn't request a departure inventory
+- what exactly will happen when pupil don't request a departure inventory before leaving
+
+## intent:may-sublet
+- am I permitted to lease the housing
+- am I allowed to rent my hostel
+- is it banned to lease the accommodation
+- is it not permitted to rent the housing
+- do I have the right to rent the accommodation
+- do I have the right to sublet my room
+- is it not permitted to sublet the room
+- do I have the rights to rent my hostel
+- do I have the right to lease my place
+- do I have the right to sublet my place
+- could I lease the housing
+- is it possible for me to sublet the housing
+- am I permitted to lease my housing
+- do I have the right to rent the room
+- do I have the right to lease my room
+- is it not permitted to sublet my accommodation
+- is it possible to sublet my hostel
+- do I have the right to lease the place
+- am I permitted to rent the accommodation
+- am I allowed to lease the housing
+- is it not allowed to rent my room
+- am I permitted to rent my housing
+- do I have the rights to lease my housing
+- is it proscribed to lease the place
+- is it possible for me to rent the hostel
+- is it not allowed to lease the place
+- can I lease the hostel
+- can I lease my place
+- do I have the rights to lease my accommodation
+- could I rent my hostel
+- do I have the right to sublet my housing
+- am I allowed to rent my room
+- do I have the rights to rent the housing
+- am I allowed to sublet my place
+- is it possible for me to sublet my hostel
+- is it possible for me to lease my accommodation
+- am I permitted to rent the place
+- am I allowed to lease my place
+- is it not allowed to lease the housing
+- is it possible to sublet the room
+
+## intent:what-charges-for-hostel
+- describe what charges is please
+- explain what security charges means
+- what in fact is the security charges of money for
+- what's charges
+- describe security charges
+- what in fact is the charges for
+- what will be security charges in fact
+- what's charges actually
+- what security charges stands for
+- describe what charges stands for
+- advice about what security charges actually means
+- what in fact is a security charges of money for
+- what security charges means
+- what charges in fact is
+- describe what charges is
+- explain charges
+- what does charges stand for
+- what'll be security charges exactly
+- would you be so kind and show me about what charges in fact is
+- what'd be security charges in fact
+- explain what charges is please
+- describe what security charges stands for
+- explain what charges means please
+- what does security charges stand for
+- what charges exactly stands for
+- guidance on what charges means
+- what about what charges exactly means
+- what exactly is the security charges of money for
+- what is charges
+- I would really love to be informed about what security charges means
+- explain what security charges stands for please
+- what's charges exactly
+- what is security charges
+- what would be security charges
+- what in fact is a charges for
+- what will be security charges actually
+- what would be security charges actually
+- what exactly is a charges for
+- explain what charges stands for please
+- what is the charges for
+- show me about what security charges means
+- what actually is the charges for
+- what about what charges means
+- would you be so kind and show me about what security charges in fact means
+- what'd be charges actually
+- what security charges exactly stands for
+- what will be charges exactly
+- would you tell me about what charges stands for
+- would you be so kind and tell me about what charges stands for
+- what security charges actually means
+- define charges please
+- can you please show me about what security charges in fact means
+- what'd be charges
+- what security charges in fact means
+- what is charges exactly
+- I'd really love to be informed about what security charges actually stands for
+- what about what charges is
+- tell me about what security charges in fact is
+- explain what security charges means please
+- what actually is a security charges of money for
+- explain charges please
+- describe security charges please
+- what is a charges for
+- what is security charges actually
+- what about what charges actually is
+- I would really want to learn about what charges actually stands for
+- what exactly is a security charges of money for
+- explain what security charges is
+- what actually is the security charges of money for
+- what is the security charges of money for
+- what is security charges exactly
+- explain what charges is
+- I would really want to know about what charges actually stands for
+- what'd be security charges
+- what does security charges mean
+- describe charges please
+- define security charges
+- explain what security charges stands for
+- describe charges
+- explain security charges please
+- describe what security charges means please
+- what does charges mean
+- would you tell me about what security charges actually means
+- guidance about what security charges stands for
+- what'll be charges exactly
+- what's security charges
+- info about what charges is
+- what charges means
+- describe what security charges is
+- describe what charges means
+- what will be security charges exactly
+- define charges
+- what charges is
+- what would be charges
+- explain what charges stands for
+- can you show me about what charges exactly means
+
+## intent:Boys_Hostels
+- is there any kind of boys in nust
+- list of boys hostel
+- name of boys hostel
+- What are the Hostels for Male Students?
+
+## intent:Girls_Hostels
+- is there any kind of girls in nust
+- name of girls hostel
+- Girls Hostels
+- list of girls hostel
+
+## intent:scholarship
+- what about study loan
+- where can I apply for scholarship?
+- financial aid
+- What is the process of scholarship application ?
+- what is the process of need based scholarship
+- scholarship
+- what is the process of scholarship?
+- how can I get scholarship?
+- how can I apply for financial aid
+- how can I get financial aid?
+- I need guidance through the procedure of scholarship application ?
+- I need information of the procedure of application of scholarship ?
+- what is the process of financial aid?
+- Can anyone guide me about scholarship...?
+- I need information about the scholarship procedure.
+- where can I apply for financial aid?
+
+## intent:summer_warning
+- Will there be any warning count in summer?
+- does warning count increment or decrement in summer?
+- Will the warning count be changed in summer semester ?
+- does warning ount is affected in summer semester?
+- Can the warning count increase or decrease in summer semester ?
+
+## intent:summer_courses
+- courses in summer
+- how many courses can we register in summer semester?
+- course limit in summer?
+- how many courses can we register in summer?
+
+## intent:nust
+- is nust number 1 university?
+- why should i choose nust university?
+- why nust is good for me?
+- why nust university?
+
+## intent:job_rate
+- what is job rate at nust
+- job rate at nust
+- job rate at nust university
+- what is job rate of nust
+- job rate nust
+
+## intent:admission_schedule
+- when is the last date of NUST test ?
+- dates of application submission?
+- When can we apply for NET ?
+- admission dates?
+- What are the dates regarding the application of NET ?
+- dates for admission?
+- dates for entry test?
+- What is the information regarding the opening and closing date of admissions ?
+- What would be the last date of the test of NET ?
+- schedule for admission dates?
+- What is the information regarding the last date of NUST test ?
+- dates for apply?
+- When will the application of NUST entry test take place ?
+- When will the admissions open and close ?
+- when test will held
+- When will the admission start and end ?
+- What are the dates to apply for Nust entry test ?
+- admissions deadline?
+- What are the starting and ending dates of the admissions ?
+- when should i apply for test
+- when can i apply for admission at nust?
+- when will test take place?
+- where result will be announced
+- deadline for admission forms?
+
+## intent:past_papers
+- Where are the past paper of nust university entry test available ?
+- where can I get sample test papers
+- Where are the past paper of nust university available ?
+- Is there anyway I could find the past papers of nust university entry test ?
+- Does anyone know how to prepare for entry test of nust university?
+- Where would I be able to get a hold of the past paper of nust university
+- Is there anyway I could find the past papers of nust university ?
+- Where can we get past papers of nust university regarding the entry test ?
+- Where would I be able to get a hold of the past paper of nust university entry test ?
+- past papers
+- Do anyone have online material for the prepration of nust admission test or anylink plz let me know if anyone have??
+- What is the syllabus of entry test for an A levels student ?
+- How can a person prepare for the nust entry?
+- I need information about the syllabus of entry test as I am an A levels student.
+- What is the information regarding the preparation of nust admission test through online learning and links ?
+- What is syllabus of entry test As I am an A level student
+- Where will I be able to get past papers of nust university from ?
+- I have cleared my A levels, what would the syllabus of entry test be for me ?
+- I need online preparation material for the nust admission test.
+- Where can I get the past papers of nust university entry test ?
+- Online material and links for the preparation of nust university admission test are urgently needed, I need information regarding this ?
+- where can we get past papers of nust university ?
+
+## intent:admission
+- what is the eligibility criteria for admission
+- With a result of HSSC-1 65% and 77 marks in NET, Is there anyway I could get an admission in NUST in Islamabad ?
+- Being an improver, will I be able to apply for NUST ?
+- Is it possible for an improver to apply in NUST ?
+- Is it possible to attain admission in NUST in Islamabad if I have achieved 65% in HSSC-1 and 120 marks in NET ?
+- Can I apply on the basis of first year eventhough I cleared my FSC in 2017 and ommited an year after that ?
+- I have completed my FSC in 2017 and unfortunately wasted an year after that, Will I be able to apply on the basis of first year ?
+- I cleared FSC in 2017, would I be permitted to apply on the basis of my first year eventhough I have missed an year ?
+- What is the procedure of application in nust university for those students who have achieved less than 60% in fsc ?
+- Can an improver apply for admission in NUST ?
+- Will I be able to apply for NUST as I am an improver ?
+- Can a student with an aggregate of 65% in HSSC-1 and 77 marks in NET get an admission in NUST in Islamabad?
+- Will I be allowed to apply on the basis of first year despite the fact that I have ommited an year after the clearance of my FSC in 2017
+- What process should students with less than 60% go through to attain an admission in nust ?
+- what is the selection criteria
+- I had to miss an year after clearance of my FSC in 2017, Will the university permit me to apply on the basis of my first year ?
+- Will it be possible for me to attain an admission in NUST in Islamabad if my HSSC-1 percentage is 65% and NET marks are 77 ?
+- I have less than 60% in fsc, How can I apply in nust university ?
+
+## intent:admission2
+- The grades of A levels are 'D' inspite of equivalence being above 60% or 70%, Will it be possible for me to attain admission ?
+- Is it possible to get an admission with an equivalence above 60% or 70% eventhough the grades in A levels are 'D' ?
+- Will the student with lesser marks than 33% in a subject or in Intermediate (pt.1) be eligible ?
+- The equivalence is above 60% to 70% although the student has 'D' grade in A levels, Will he be eligible for an admission ?
+- What will be required from a student who has cleared A levels ?
+- Is it possible for a student to get admission even if he has 'D' grades in A levels although the equivalence is above 60% or 70%?
+- Are there any essential requirements for an A levels student ?
+- what kind of essentials would a student who has cleared A levels require ?
+
+## intent:NET
+- Can NET test marks help me in attaining admission ?
+- Can we get admission with the marks of NET test ?
+- Is it necessary to clear the NET test for an admission ?
+- Is it possible to apply through the marks of NET test ?
+- Will I be able to attain admission using the marks of NET test ?
+- Is it possible to gain admission through the marks of NET test ?
+- Will I be able to apply using the marks of NET test ?
+- Can we apply with the marks of NET test ?
+- Is the NET test essential for getting an admission ?
+- For getting an admission, Is it mandatory to pass a NET test ?
+- Will it be possible to get an admission with the use of NET test marks ?
+- Is the test of NET mandatory to get an admission ?
+- Will it be possible to apply with the use of NET test marks ?
+
+## intent:SAT
+- Online or in NUST, where is the test going to take place ?
+- Will it be possible to apply with the SAT test results ? Also, It will be declared in the last week of July.
+- Where is the test going to take place, Online or in NUST ?
+- The result of SAT test is going to come out at the end of July. Furthermore, Is it possible to apply on the basis of SAT test ?
+- Can SAT test marks help me in applying ? We will get to know our results of SAT test in the end of  July.
+- I would like to inform that SAT result will be announced at the end of July and I wanted to ask whether we can apply on the basis of SAT test or not.
+- Will I be able to apply on the basis of SAT test ? The result of SAT test will be declared at the end of July.
+- Where will the SAT test be conducted , online or in NUST ?
+
+## intent:tests_conducted
+- Which test is necessary to attain admission in nust university ?
+- which test is conducted to get admission in nust university?
+- Which test does nust university conduct for its admissions ?
+- Which test is required to be taken in order to get an admission in nust?
+
+## intent:apply
+- What is the information regarding admission in Masters degree ?
+- When to apply for tests and Form Fee?
+- How much amount is required for form fees and when can one apply for tests ?
+- What is the procedure for the students from Balochistan to apply ?
+- What is the process of attaining an admission in nust university ?
+- What are the details of getting an admission in Masters ?
+- How should I apply and please tell me the website from which I should apply.
+- I need information on how to get an admission in nust university.
+- I need guidance towards the attainment of admission in nust university.
+- On which website does the application take place and what is its procedure ?
+- I need information on how to apply along with the online admission website.
+- What are the ways through which the students of Baclochistan may apply ?
+- I need the website for applying and I also want to know what the process of application is ?
+- Is there any information available about getting admission in Masters ?
+- Is there anyway through which the students of Balochistan can apply ?
+- What is the procedure to get an admission in nust university ?
+- What are the date of application of tests and how much is the amount of form fees ?
+- how can I apply for admission
+- What is the procedure of applying and from which website do we have to apply ?
+- I need details with regard to the date of application of tests and the amount of form fees.
+- When should I apply for tests and what is the required amount of form fees ?
+- How can the students from Balochistan apply ?
+- how can we get admission in NUST
+
+## intent:fee_structure
+- What is the information regarding the fees of MBA ?
+- What will my semester fees be after appearing on the merit list ?
+- After appearing on the merit list, what will my semester fees be ?
+- What are details with regards to the total fee structure of MSCS ?
+- what is the tuition fee
+- What is the amount of fee submission for studying MBA ?
+- What is the fee structure of MBA ?
+- what is the fee structure
+- I need to know the total fee structure of MSCS.
+- How much is the fees of MBA ?
+- How much will my semester fees be if I achieve appearing on the merit list ?
+- What amount is essential for the payment of token fees in nust university ?
+- What is the semester fees of the students who are on the merit list ?
+- how much token fees will we have to pay in nust university ?
+- What will the semester fees be If I appear on the merit list?
+- What are the complete fee structure of MSCS ?
+- How much amount is paid for the token fees in nust university ?
+- I need information on the complete fee structure of MSCS.
+
+## intent:offered_programs
+- which degree programs are being offered for phd
+- What sections of Engineering does nust university offer ?
+- which degree programs are being offered for post graduates
+- Engineering in nust university is divided into which different offered fields ?
+- Which fields of Engineering does nust university offer to its students ?
+- which degree programs are being offered for graduate students
+- What fields of Engineering is offered by nust university ?
+
+## intent:hostel
+- hostel facility
+- is there hostel available
+- oncampus hostel
+- incampus hostel
+
+## intent:test_pattern
+- Is there any necessary subjects required for an admission in BSCS ?
+- Are there any specific subject required for an admission in BSCS ?
+- Will the entry test of BSCS contain information only regarding computer even if I have cleared my FSC. with Chemistry ?
+- Will my entry test for BSCS contain questions from Chemistry along with Computer, as I have cleared my FSC. with Chemistry ?
+- what is the test pattern for Engineering programs
+- Is it possible for someone to tell me about the nust Engineering entry test ?
+- I need information on the pattern of nust Engineering entry test ?
+- What are the details regarding the nust Engineering entry test ?
+- Which subjects are essential with regards to getting an admission in BSCS ?
+- What is the pattern of nust Engineering entry test ?
+- I need information about the nust Engineering pattern of entry test.
+- Will the entry test of BSCS have MCQ's from physics ?
+- Are MCQ's from Physics included in BSCS entry test ?
+- I have cleared FSC. with chemistry and now I opt to apply for BSCS, What will my entry test be from, computer or chemistry ?
+- Chemistry or computer, What will my entry test for BSCS contain if I have passed my FSC. with chemistry ?
+- What are the necessary subject requirements for BSCS ?
+
+## intent:negative_marking
+- Is there any information available about the negative marking ?
+- How will the negative marking take place ?
+- What are the updates in regards to the negative marking system ?
+- What are the details about the negative marking ?
+
+## intent:evening_classes
+- What are the updates about the evening classes ?
+- Evening class ??
+- What are the details about the classes held in the evening?
+- What are the updates on the classes that are held in the evening ?
+
+## intent:sports_seats
+- If a student wants to take admission in in nust univeristy on the basis of sports seats, what would be the process he/she will have to go through ?
+- What is the process one should proceed for taking admission in in nust univeristy on the basis of sports ?
+- What procedure should be followed for taking admission in -nust univeristy on the basis of sports seats ?
+- If a student wants to take admission in in nust univeristy on the basis of sports seats, what procedure is recommended for him ?
+
+## intent:self_finance
+- What are the details about the Self-Finance seat ?
+- Is there any information available about the Self-Finance seat ?
+- What are the updates in regards to the Self-Finance seat ?
+- What is the information regarding the Self-Finance seat ?
+
+## intent:domicile
+- Being an Overseas Pakistani, Do I too have to provide a domicile in order to apply online ?
+- Is There Any Need Of Domicile If We Apply Online From As Overseas Pakistani?
+- Does an Overseas Pakistani also has to provide domicile for applying online ?
+- Is domicile required even from Overseas Pakistani while online application ?
+
+## intent:aggregate
+- What is the percentage required for clearing the nust university entry test ?
+- I have attained 64% in NET and 75.9% in FSC ,Is it possible to get an admission in BS Electrical. Engineering in Islamabad ?
+- What NET score should a student achieve to get an admission in CS in nust university ?
+- How much marks should one attain in order to get an admission in Civil Engineering ?
+- Will it be possible for me to attain an admission in BS Electrical Engineering in Islamabad if my NET result is 64% and I have 75.9% in FSC ?
+- Achieving 90% in FSC, I need information on how much marks I - should gain in the test to get admission in nust university Islamabad.
+- I need information on If I could get an admission in BSCS with an aggregate of 56.18 ?
+- I have achieved 90% in FSC, how much marks should I attain in the test to get admission in nust university Islamabad ?
+- Sir what is the required aggregrate on the basis of NET this year ?
+- With a result of 80% in first year and 55% in matric from Islamabad, Is there anyway I could get an admission ?
+- What is the merit for admission in BS Civil Engineering in Islamabad Campus ?
+- Would I get an admission in BSCS with an aggregate of 56.18 ?
+- What is the NET aggregate required to attain admission in CS in nust university ?
+- Would a student having 399 marks in ICS (Pt. 1) be eligible to an admission ?
+- What is the required percentage for the clearance of entry test ?
+- What is the aggregate required for an admission in Civil Engineering ?
+- For attainment of admission in Civil Engineering, what is the required score ?
+- Is there any information of the merit list of last year of nust university ?
+- Is it possible to attain admission if I have achieved 55% in matric and 80% in first year from Islamabad ?
+- What percentage is ideal for passing the nust university entry test ?
+- I need to know the merit list of last year of nust university
+- What is the required percentage for the clearance of nust university entry test ?
+- Can a student with an aggregate of 75.9% in FSC and 64% marks in NET get an admission in BS Electrical Engineering in Islamabad ?
+- I need information about the merit list of last year of nust university
+- I have attained 55% in Matric and 80% in First year from Islamabad, Is it possible for me to get an admission ?
+- Will it be possible for me to attain an admission in BS Electrical if my NET marks are 140 and I have 73% in FSC?
+- How much NET score is required for CS in nust university ?
+- My aggregate is 56.18, Will I get an admission in BSCS ?
+- How much percentage should one achieve for passing the nust university entry test
+- What are the ideal marks required for an admission in Civil Engineering ?
+- Sir I need to know what aggregate is required from the NET this year ?
+- Is it possible to attain admission in BS Electrical if I have achieved 73% in FSc from Islamabad and 120 marks in NET ?
+- what percentage is ideal for passing the nust university entry test ?
+- What are the updates about the merit of BS Civil Engineering in Islamabad Campus ?
+- How much percentage should one achieve for passing the nust university entry test ?
+- Can a student who has attained 399 marks in ICS (Pt. 1) get an admission ?
+- Is it possible to attain admission in BS Electrical Engineering in Islamabad if I have achieved 75.9% in FSC and 64% in NET ?
+- What are details with regards to the merit list of last year of nust university ?
+- Will it be possible for me to attain an admission if my matric result is 55% and I have 80% in first year from Islamabad ?
+- Can a student with a result of 66% in FSC and 126 marks in NET get an admission in BS electrical in Karachi ?
+- Will I get an admission if I have 399 marks in ICS (Pt. 1) ?
+- If a student aspire to attain admission in CS in nust university, what should his NET score be ?
+- Having attained 90% in FSC, I need to know how much marks would I need to acquire in test for getting admission in nust university Islamabad?
+- I need information on whether It would be possible to get an admission in BSCS with an aggregate of 56.18 ?
+- Is it possible to attain admission in telecom in Karachi if I have achieved 66% in FSC and 126 marks in NET ?
+- Can a student with an aggregate of 73% in FSC from Islamabad and 130 marks in NET get an admission in BS Electrical ?
+- How much marks do I need to achieve in test to get admission in nust university Islamabad if I have attained 90% in FSC?
+- With a result of 66% in FSC and 66 marks in NET, Is there anyway I could get an admission in BS Electrical in Karachi ?
+- What is the required score to get an admission in Civil Engineering ?
+- I have attained 130 marks in NET and 73% in FSC, Is it possible to get an admission in BS Electrical ?
+- Can a student with an aggregate of 80% in first year and 55% marks in matric from Islamabad get an admission ?
+- Will it be possible for me to attain an admission in BS Electrical Telecom in Karachi if my FSC percentage is 66% and NET marks are 126 ?
+- Having achieved 399 marks in ICS (Pt. 1), I need to know whether I could get an admission or not.
+- With a result of 73% in FSC from Islamabad and 70 marks in NET, Is there anyway I could get an admission in BS Electrical ?
+- I have attained 64% in NET and 75.9% in FSC , Is it possible to get an admission in BS Electrical. Engineering in Islamabad ?
+- Sir on the basis of NET what aggregate is required this year ?
+- What is the information on the merit of BS Civil Engineering in Islamabad Campus ?
+
+## intent:academic_period
+- What schedule of the academic year does the university follow ?
+- When does the academic year ends?
+- When does the academic year of the university begin and end ?
+
+## intent:Warning
+- What is minimum CGPA requirement to avoid academic warning?
+- can i avoid warning if i have gpa below 2.
+- how much gpa i need to avoid warning?
+- how much gpa is needed to avoid warning?
+
+## intent:Fyp_Registration
+- eligibilty of fyp
+- What are the necessary requirements for the registration of Final Year Project (FYP) ?
+- What is the warning count to register for Final Year Project?
+- can i take fyp if my credit hours are not complete
+- fyp policy
+- how many credit hours are needed to opt fyp
+- fyp criteria
+- requirements of fyp
+- can i take fyp on 93 credit hours
+- minimum credit hours needed to take fyp
+
+## intent:Transfer
+- What procedure do the students go through who have earned credit from other insitutions and aspire to get admission in NUST ?
+- how can i transfer my credit hours to other university?
+- how can i transfer my credit hours to foriegn university?
+- could I transfer my credit hours from other universities
+- What if student earn credits at other institution under formally accredited programs?
+- What are the details about transfer ?
+- How will the transfer take place ?
+- What is the procedure for admission at NUST for students who have earned credits in other institutions ?
+- Is there any information available about the transfer ?
+- What are the updates in regards to the transfer ?
+- can i transfer my admission to other university?
+- In which case will the transfer request not be accepted ?
+
+## intent:GPA_F
+- Does F on transcript effect CGPA?
+- what happens when i withdraw a course will it effect my gopa?
+- What does it mean by W?
+- does f effects gpa?
+
+## intent:GPA_I
+- what does i mean?
+- what is i in transcript
+- what does i refers in transcript
+- is i a grade
+
+## intent:GPA
+- how do i calculate sgpa
+- ways to calculate gpa
+- ways to calculate sgpa
+- how can gpa be calculated
+- how do i calculate cgpa
+- How do we calculate CGPA?
+- how gpa is calculated?
+- i want to calculate my gpa
+- How does the calculation of CGPA take place ?
+- How is the CGPA calculated ?
+
+## intent:credit_hour
+- meaning of credit hour?
+- how you define credit hour?
+- what is credit hour?
+- what do you mean by credit hours
+
+## intent:classes
+- What is the duration of reschedule class?
+- How much time is one period of ?
+- duration of a single class
+- how much time is a class?
+- If necessary, will the class be scheduled for a longer period ?
+- How long can a class be scheduled for in case of necessity ?
+- duration of a period
+- what is timing of class?
+
+## intent:graduation
+- how many credit hours are required to graduate
+- duration of graduation
+- how many credit hours are in bachelors degree for graduation
+- credit hours for graduation
+
+## intent:Admission_of_former
+- Can a former student who has been on disciplinary warning get a readmission ?
+- Can a student with 3 academic warnings take admission?
+- How many times a student is allowed to take admission after 3 academic warnings?
+- how former student can apply for admission
+- What procedure do former students have to go through in order to take an admission in an undergraduate program ?
+- Does admission test is necessary for readmission in an undergraduate program?
+- What happens if a student on disciplinary warning -wants to take readmission in university?
+- Can a former student on disciplinary warning take readmission into university?
+
+## intent:awaited_admission
+- What if awaited results do not meet eligibility criteria of particular program?
+- if an awaited result does not meet the eligibility criteria of a particular degree program, What would happen ?
+- what if i doesn't meet eligibility criteria after getting admission due to awaited results of fsc
+- Can result awaiting students get admission to a particular degree?
+
+## intent:semester_week
+- How many weeks is a regular semester of ?
+- how big a semester is
+- what is the duration of a semester
+- how many weeks in a semester
+- how many week are there in a semester
+- How does the distribution of weeks occur in a regular semester ?
+
+## intent:summer_campus
+- How to apply for a summer course in another campus in summer?
+- i am from peshawar campus can i take summer course in islamabad
+- can a student take course in another campus
+- Can a student study summer semester from another campus ?
+- Is it allowed for a student to study summer semester in another campus ?
+
+## intent:summer_withdraw
+- can we withdraw from a summer course
+- withdraw from summer course
+- is it allowed to withdraw from summer course
+- When is it allowed for a student to withdraw from a summer course ?
+- can i withdraw from summer course
+- When can a student withdraw from a summer course ?
+- can one withdraw from summer course
+
+## intent:new_summer
+- new course in summer
+- How to register for a new course in summer?
+- can a student register new course in summer
+- Can we register for a new course in summers?
+- can we opt new course in summer semester
+- Can a student register for a new course in the summer semester ?
+
+## intent:improve_gpa
+- Can a student repeat a course to improve CGPA ?
+- Can student repeat course to improve CGPA?
+- improve grade
+- improve gpa
+- can we repeat a course to improve our gpa
+- improve a course
+
+## intent:freezing_semester
+- semester freeze
+- What is the procedure for freezing a semester ?
+- freezing semester policy
+- freeze a semester
+- Up to how many semesters can a student freeze his admission for ?
+
+## intent:Rechecking_paper
+- What happens if student can't make out at scheduled paper viewing session?
+- how can i recheck final papers
+- paper recheck policy
+- rechecking
+- rechecking final exams
+- Can a student who has not viewed his final exam paper in the scheduled paper viewing session request for a rechecking of the final exams ?
+- process of rechecking
+
+## intent:degree_duration
+- duration to earn a degree
+- What will happen if student exceed the maximum duration allowed for degree?
+- Can extension be provided to maximum duration allowed for a degree?
+- If a student does not earn a degree in the maximum duration alloted to him, what would happen ?
+- duration of a degree
+- What will happen after completion of maximum duration allowed to earn a degree ?
+- how much time it take to earn adegree
+
+## intent:spring_admission
+- I need information of the spring admissions ?
+- What are the details of the spring admissions ?
+- admission in spring semester
+- I need instructions regarding the spring admissions?
+- Spring admission?
+- What is the information announced about the spring admissions ?
+
+## intent:withdraw_course
+- How a student can request for withdrawal from a course?
+- course withdraw
+- withdraw a course
+- Who should sign the application of the student's withdrawal ?
+- withdraw
+- withdraw course
+- Is there any deadline to withdraw from a course?
+- What is deadline to withdraw from a course?
+- What is the deadline of withdrawal from a course ?
+- Which days in the semester is the deadline of withdrawal from a course ?
+
+## intent:medals
+- gpa required for medal
+- What is the eligibility for medal and certificates ?
+- honor policy
+- What are the requirements for medals and certificates ?
+- Which students will be awarded with medals and certificates?
+- how can i get a medal
+- medal eligibilty
+
+## intent:social_events
+- concert at nust
+- social events at nust
+- which events take place at nust
+- events in nust
+
+## intent:contacts
+- nust contact
+- how to contact nust
+- how to reach nust
+- nust contact number
+
+## intent:nust_isb_address
+- nust islamabad address
+- where is nust isb located
+- nust isb address
+- where is nust islamabad
+- location of nust isb
+
+## intent:nust_blo_address
+- where is nust Blochistan
+- location of nust Blochistan
+- location of nust blo
+- where is nust Blochistan located
+- nust Blochistan address
+
+## intent:nust_khi_address
+- nust karachi location
+- nust khi address
+- nust karachi address
+- where is nust karachi located
+- location of nust karachi
+
+## intent:nust_rwp_address
+- nust rawalpindi location
+- where is nust rawalpindi located
+- where is nust mcs located
+- nust eme location
+- where is nust rawalpindi
+- location of nust eme
+- location of nust rawalpindi
+- nust eme address
+
+## intent:library
+- is library available at nust
+- library in nust
+- library at nust
+
+## intent:cafeteria
+- cafe
+- is cafeteria available at nust
+- cafeteria
+- canteen
+
+## intent:mosque
+- prayer services
+- is mosque available at nust
+- mosque service at nust
+
+## intent:auditorium
+- is auditorium available at nust
+- auditorium
+
+## intent:best_campus
+- best campus of nust
+- which campus is better
+- which is best campus
+
+## intent:academic_office
+- office of academics
+- academic office
+- where is academic office
+
+## intent:director_office
+- where is director office
+- director office
+- office of director
+
+## intent:hod_office
+- hod office
+- where is hod office located
+- where is hod office
+
+## intent:students_affair
+- where is student affair office
+- where is student affair office located
+- office of student affair
+
+## intent:admin_office
+- student admin office
+- office of admin
+- where is admin office located
+
+## intent:career_office
+- where is cso located
+- where is career service office
+- cso location
+- where is cso
+- student career service office
+- office of career service
+
+## intent:dean
+- who is dean of nust
+- who is dean of university
+- who is your dean
+- who is chancellor of nust
+
+## intent:headquarter
+- nust headqurater location
+- where is headquarter located
+- where is headquarter of nust
+- nust headquarter
+
+## intent:greet
+- hey there
+- hey
+- hi nust bot
+- hi bot
+- hello
+- good evening
+- good morning
+- hi nust
+
+## intent:goodbye
+- see you around
+- goodbye
+- bye
+
+## intent:affirm
+- of course
+- I do
+- sure do
+- yes
+- yup
+- alright then
+- sounds good
+- indeed
+- correct
+- that sounds good
+- I dure do
+
+## intent:deny
+- nah
+- I don't think so
+- I disagree
+- not really
+- never
+- don't like that
+- no
+- I don't
+
+## intent:mood_great
+- very good
+- perfect
+- I am great
+- amazing
+- great
+- I'm good
+
+## intent:mood_unhappy
+- awful
+- sad
+- terrible
+- so sad
+- not very good
+- very sad
+- bad
+- unhappy
+
+## intent:bot_challenge
+- are you a bot?
+- who are you?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:ask_residence
+- your town
+- whats your hometown
+- where are you staying
+- your city
+- wer do u stay
+- wheres your house
+- wheres your home
+- whats your residence
+- where's your residence
+- in which city do you live
+
+## intent:information_extract
+- I want to check my details
+- my data
+- check my record
+- Status of my Registration
+- I want to check my registration
+
+## synonym: BSCS
+- Engineering Program
+- Engineering field
+- Engineering and Technology
+
+## synonym:hostel
+- accommodation
+- accommodations
